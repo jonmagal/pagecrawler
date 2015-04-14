@@ -1,0 +1,2 @@
+Pega todas as subpaginas com o mesmo inicio de endereço
+Falta fazer o processamento de texto

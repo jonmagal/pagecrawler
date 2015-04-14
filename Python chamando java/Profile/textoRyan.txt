@@ -1,0 +1,1457 @@
+http://www.columbia.edu/~rsb2162/text/htmlRyan Baker ( Ryan Shaun Joazeiro de Baker )
+Educational Data Mining	Intelligent Tutoring Systems	The Learning Sciences	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu              
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+I am Associate Professor of Cognitive Studies in Education in the Department of Human Development at at Teachers College Columbia University.
+I am also Program Coordinator of TC's Masters in Learning Analytics.
+I also have an affiliate appointment at Worcester Polytechnic Institute, in the Department of Social Science and Policy Studies.I am also a member of LearnLab.
+I am President of the International Educational Data Mining Society. I am also Associate Editor of the Journal of Educational Data Mining.
+	
+My research is at the intersection of Educational Data Mining and Human-Computer Interaction. I develop and use methods for mining the data that comes out of the interactions between students and educational software, in order to better understand how students respond to educational software, and how these responses impact their learning. I study these issues within intelligent tutors and educational games.
+In recent years, my colleagues and I have developed automated detectors that make inferences in real-time about students' affect and motivational and meta-cognitive behavior, using data from students' actions within educational software (no sensor, video, or audio data). We have in particular studied gaming the system, off-task behavior, carelessness, "WTF behavior", boredom, frustration, engaged concentration, and appropriate use of help and feedback. We use these models to make basic discoveries about human learning and learners. Many of these models are developed using data collected through the Baker Rodrigo Ocumpaugh Monitoring Protocol (BROMP), and the HART Android app.
+I have made some tools for EDM research available here.
+Selected Current and Upcoming Projects
+Predicting STEM Career Choice from Computational Indicators of Student Engagement within Middle School Mathematics Classes (funded by NSF ITEST)
+Classroom Environment, Allocation of Attention, and Learning Outcomes in K-4 Students (funded by IES)
+Understanding the Differences Between Rational and Machine-Learned Models of Gaming the System (funded by NSF-SLC PSLC)
+Modeling Relationship Between Affect and Robust Learning (funded by NSF-SLC PSLC)
+Detectors of Affect in Educational Software (funded by NSF-SLC PSLC and Gates Foundation)
+Studying Relationship Between Affect, Learning, and Persistence (funded by Gates Foundation)
+Detecting, Studying, and Adapting to Affect in Military Training (cooperative agreement with Army Research Laboratory)
+Creating Design Patterns for More Engaging Educational Software, Based on Evidence from EDM (funded by NSF REAL)
+Studying Social Factors that Impact Community Participation After Use of MOOCs (funded by NSF DIRITL)
+Studying Participation in Online Courses By Students From Underrepresented Groups (funded by Gates Foundation)
+Student Behavior in Educational Software Across Cultures
+Please check out my publications web page for recent papers.
+I organize the Learning Analytics Seminar Series at Teachers College.
+Teachers College now offers a Masters in Learning Analytics.
+Teachers College also offers a Focus in Learning Analytics, within the Masters program in Cognitive Studies in Education.
+I will be teaching the MOOC Big Data and Education on EdX, starting in June 2015.
+I have written a MOOT (Massive Online Open Textbook), Big Data and Education. This MOOT is based on a course taught on the Coursera platform in Fall 2013.
+Follow my research group on Twitter or Facebook.
+Quantitative Field Observation	Affective Computing	Human-Computer Interaction	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/contact.htmltext/htmlRyan Baker
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+Email address:
+	baker2@exchange.tc.columbia.edu
+Mailing Address: 
+	 Department of Human Development, 453 Grace Dodge Hall
+Teachers College, 525 W. 120th St., Box 118
+New York, NY 10027
+Office: 
+	 Grace Dodge Hall 464
+Office Phone:
+	 212-678-8329
+Fax:	 212-678-3837
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/la_seminar.htmltext/htmlLearning Analytics Seminar Series
+ Teachers College, Columbia University
+Upcoming Lectures
+March 12, 2015: Dragan Gasevic, University of Edinburgh.
+March 13, 2015: Tiffany Barnes, North Carolina State University.
+April 2, 2015: Jack Mostow, Carnegie Mellon University.
+Past Lectures
+February 19, 2015: Maria Baker.
+December 9, 2014: Mike Tissenbaum, University of Wisconsin.
+November 12, 2014: Genaro Rebolledo-Mendez, Universidad Veracruzana.
+October 22, 2012: Taylor Martin, Utah State University.
+December 7, 2012: Neil Heffernan, Worcester Polytechnic Institute.
+January 14, 2013: Ilya Goldin, Carnegie Mellon University.
+February 14, 2013: Alex Bowers, Teachers College.
+April 5, 2013: Matthew Ventura, Florida State University.
+May 8, 2013: Janice Gobert and Michael Sao Pedro, Worcester Polytechnic Institute.
+June 17, 2013: Zachary Pardos, MIT.
+June 24, 2013: Marcelo Worsley, Stanford University.
+July 22, 2013: Pedro Muñoz Marino, Universidad Carlos III de Madrid.
+September 9, 2013:James Lester and Jonathan Rowe, North Carolina State University AND Robert Sottilare and Keith Brawner, Army Research Laboratory.
+September 20, 2013:Richard Halverson, University of Wisconsin.
+September 30, 2013:Winslow Burleson, Arizona State University.
+October 11, 2013:Jose Gonzalez-Brenes, Pearson.
+October 23, 2013:Sidney D'Mello, Notre Dame University.
+October 28, 2013:Didith Rodrigo, Ateneo de Manila University.
+November 13, 2013:Erica Snow and Laura Varner, Arizona State University.
+December 13, 2013: Samuel Greiff, University of Luxembourg.
+April 29, 2014: Ross Nehm, Stony Brook University.
+May 14, 2014: Mykola Pechenizkiy, Eindhoven Institute of Technology.
+May 30, 2014: Peter Halpin, New York University.
+June 3, 2014: Vikram Kapur, Corporation of Chennai.
+September 12, 2014: Jay Verkuilen, CUNY.
+September 19, 2014: Yoav Bergner, ETS.
+September 24, 2014: Lalitha Agnihotri, McGraw-Hill.
+October 6, 2014: Blair Lehman, ETS.
+October 15, 2014: Antonio Moretti, CUNY.
+October 27, 2014: Ragnar Steingrimsson, UC Irvine.
+To join the seminar series mailing list, or to meet with a speaker, please contact Ryan Baker at baker2@exchange.tc.columbia.edu.*********************************************http://www.columbia.edu/~rsb2162/bromp.htmltext/htmlBaker-Rodrigo Ocumpaugh Monitoring Protocol (BROMP)
+Baker-Rodrigo Ocumpaugh Monitoring Protocol (BROMP)
+BROMP is a protocol for Quantitative Field Observations (QFOs) of student affect and behavior. It has also been used to code teacher behaviors. BROMP is currently in version 2.0.
+BROMP was first developed by Ryan Baker and Ma. Mercedes T. Rodrigo. BROMP is now led in the United States by Jaclyn Ocumpaugh.
+BROMP is a holistic coding procedure that has been used in thousands of hours of field observations of students from kindergarten to undergraduate populations. It has been used for several purposes, including to study the engagement of students participating in a range of classroom activities (both activities involving technology and more traditional classroom activities) and to obtain data for use in developing automated models of student engagement with Educational Data Mining (EDM).
+A range of coding schemes have been used with the BROMP protocol. Students are observed individually, in a pre-determined sequence in order to avoid bias towards more interesting classroom activities. Observers have up to 20 seconds to determine which behavior and which affective state a student is exhibiting, but they record only the first of each.
+Additional information about BROMP is available through our training manual:
+Ocumpaugh, J., Baker, R.S., Rodrigo, M.M.T. (2015) Baker Rodrigo Ocumpaugh Monitoring Protocol (BROMP) 2.0 Technical and Training Manual. Technical Report. New York, NY: Teachers College, Columbia University. Manila, Philippines: Ateneo Laboratory for the Learning Sciences. [pdf]
+Using the BROMP coding scheme is facilitated by the HART Android app, available free of charge for non-commerical or academic use. HART can be obtained from this link or as part of the GIFT distribution from the U.S. Army Research Laboratory [link].
+BROMP Certification
+To date, 150 people have obtained official certification as BROMP-certified coders. The training to become a BROMP-certified coder takes approximately one day on-site, and BROMP-certified coders can train and certify other individuals. Achieving BROMP certification involves obtaining inter-rater agreement of over 0.6 (Cohen's Kappa) in field settings with a previously certified coder. For more information on arranging BROMP certification, please contact Ryan Baker.
+BROMP certification is now available in the USA, Philippines, and India.
+Publications
+BROMP has been used in many peer-reviewed publications. Some examples are given below. (This list is somewhat out of date)
+Baker, R.S., Corbett, A.T., Koedinger, K.R., Wagner, A.Z. (2004) Off-Task Behavior in the Cognitive Tutor Classroom: When Students "Game The System". Proceedings of ACM CHI 2004: Computer-Human Interaction, 383-390. [pdf]
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2004) Detecting Student Misuse of Intelligent Tutoring Systems. Proceedings of the 7th International Conference on Intelligent Tutoring Systems, 531-540. [pdf]
+Baker, R.S., Corbett, A., Koedinger, K., Roll, I. (2005) Detecting When Students Game The System, Across Tutor Subjects and Classroom Cohorts. Proceedings of User Modeling 2005, 220-224. [pdf]
+Baker, R.S., Roll, I., Corbett, A.T., Koedinger, K.R. (2005) Do Performance Goals Lead Students to Game the System? Proceedings of the International Conference on Artificial Intelligence and Education (AIED2005), 57-64. [Finalist for Best Paper Award] [pdf]
+Baker, R.S.J.d., Corbett, A.T., Koedinger, K.R., Evenson, S.E., Roll, I., Wagner, A.Z., Naim, M., Raspat, J., Baker, D.J., Beck, J. (2006) Adapting to When Students Game an Intelligent Tutoring System. Proceedings of the 8th International Conference on Intelligent Tutoring Systems, 392-401. [Won Best Paper Award] [pdf]
+Baker, R.S.J.d., Corbett, A.T., Koedinger, K.R., Roll, I. (2006) Generalizing Detection of Gaming the System Across a Tutoring Curriculum. Proceedings of the 8th International Conference on Intelligent Tutoring Systems, 402-411. [Finalist for Best Paper Award] [pdf]
+Baker, R.S.J.d. (2007) Modeling and Understanding Students' Off-Task Behavior in Intelligent Tutoring Systems. Proceedings of ACM CHI 2007: Computer-Human Interaction, 1059-1068. [Honorable Mention for Best Paper Award] [pdf]
+Baker, R.S.J.d., Rodrigo, M.M.T., Xolocotzin, U.E. (2007) The Dynamics of Affective Transitions in Simulation Problem-Solving Environments. Proceedings of the Second International Conference on Affective Computing and Intelligent Interaction . [pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Lagud, M.C.V., Lim, S.A.L., Macapanpan, A.F., Pascua, S.A.M.S., Santillano, J.Q., Sevilla, L.R.S., Sugay, J.O., Tep, S., Viehland, N.J.B. (2007) Affect and Usage Choices in Simulation Problem Solving Environments. Proceedings of Artificial Intelligence in Education 2007, 145-152. [pdf]
+Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314. [official pdf] [pdf]
+Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., Koedinger, K. (2008) Why Students Engage in "Gaming the System" Behavior in Interactive Learning Environments. Journal of Interactive Learning Research, 19 (2), 185-224. [pdf]
+Rodrigo, M.M.T., Anglo, E.A., Sugay, J.O., Baker, R.S.J.d. (2008) Use of Unsupervised Clustering to Characterize Learner Behaviors and Affective States while Using an Intelligent Tutoring System. Proceedings of International Conference on Computers in Education, 49-56.[pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., d'Mello, S., Gonzalez, M.C.T., Lagud, M.C.V., Lim, S.A.L., Macapanpan, A.F., Pascua, S.A.M.S., Santillano, J.Q., Sugay, J.O., Tep, S., Viehland, N.J.B. (2008) Comparing Learners' Affect While Using an Intelligent Tutoring Systems and a Simulation Problem Solving Game. Proceedings of the 9th International Conference on Intelligent Tutoring Systems, 40-49. [pdf]
+Rodrigo, M.M.T., Rebolledo-Mendez, G., Baker, R.S.J.d., du Boulay, B., Sugay, J.O., Lim, S.A.L., Espejo-Lahoz, M.B., Luckin, R. (2008) The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System. Proceedings of International Conference on Computers in Education, 57-64.[pdf]
+Baker, R.S.J.d., de Carvalho, A.M.J.A., Raspat, J., Aleven, V., Corbett, A.T., Koedinger, K.R. (2009) Educational Software Features that Encourage and Discourage "Gaming the System". Proceedings of the 14th International Conference on Artificial Intelligence in Education, 475-482. [pdf] [Honorable Mention for Best Paper Award]
+Rodrigo, M.M.T., Baker, R.S.J.d. (2009) Coarse-Grained Detection of Student Frustration in an Introductory Programming Course. Proceedings of ICER 2009: the International Computing Education Workshop. [pdf]
+Rodrigo, M.M.T., Baker, R.S., Jadud, M.C., Amarra, A.C.M., Dy, T., Espejo-Lahoz, M.B.V., Lim, S.A.L., Pascua, S.A.M.S., Sugay, J.O., Tabanao, E.S. (2009) Affective and Behavioral Predictors of Novice Programmer Achievement. Proceedings of the 14th ACM-SIGCSE Annual Conference on Innovation and Technology in Computer Science Education, 156-160. [pdf]
+Baker, R.S.J.d., D'Mello, S.K., Rodrigo, M.M.T., Graesser, A.C. (2010) Better to Be Frustrated than Bored: The Incidence, Persistence, and Impact of Learners' Cognitive-Affective States during Interactions with Three Different Computer-Based Learning Environments. International Journal of Human-Computer Studies, 68 (4), 223-241. [preprint draft pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Agapito, J., Nabos, J., Repalam, M.C., Reyes, S.S. (2010) Comparing Disengaged Behavior within a Cognitive Tutor in the USA and Philippines. Proceedings of the 10th Annual Conference on Intelligent Tutoring Systems, 263-265. [pdf]
+Baker, R.S.J.d., Moore, G., Wagner, A., Kalka, J., Karabinos, M., Ashe, C., Yaron, D. (2011) The Dynamics Between Student Affect and Behavior Occuring Outside of Educational Software. Proceedings of the 4th bi-annual International Conference on Affective Computing and Intelligent Interaction.[pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d. (2011) Comparing Learners' Affect While Using an Intelligent Tutor and an Educational Game. Research and Practice in Technology Enhanced Learning, 6 (1), 43-66. [preprint draft pdf]
+San Pedro, M.O.C., Rodrigo, M.M., Baker, R.S.J.d. (2011) The Relationship between Carelessness and Affect in a Cognitive Tutor. Proceedings of the 4th bi-annual International Conference on Affective Computing and Intelligent Interaction.[pdf]
+Baker, R.S.J.d., Gowda, S.M., Wixon, M., Kalka, J., Wagner, A.Z., Salvi, A., Aleven, V., Kusbit, G., Ocumpaugh, J., Rossi, L. (2012) Sensor-free automated detection of affect in a Cognitive Tutor for Algebra. Proceedings of the 5th International Conference on Educational Data Mining, 126-133.[pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Kauffman-Rogoff, Z., Wixon, M. (2012) Student Attributes, Affective States, and Engagement in Science Inquiry Microworlds. Paper presented at The European Association for Research on Learning and Instruction (EARLI) SIG 20 Conference.
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Nakama, A. (2012) A Data-driven Path Model of Student Attributes, Affect, and Engagement in a Computer-based Science Inquiry Microworld. Proceedings of the International Conference on the Learning Sciences.[pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Agapito, J., Nabos, J., Repalam, M.C., Reyes, S.S., San Pedro, M.C.Z. (2012) The Effects of an Interactive Software Agent on Student Affective Dynamics while Using an Intelligent Tutoring System. IEEE Transactions on Affective Computing, 3 (2), 224-236. [preprint draft pdf]
+Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013) Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. Proceedings of the 3rd International Conference on Learning Analytics and Knowledge, 117-124.[pdf]
+Baker, R.S.J.d., Ocumpaugh, J.L., Gowda, S.M., Gowda, S.M., Heffernan, N.T. (2013) Ensuring Reliability of Educational Data Mining Detectors for Diverse Populations of Learners. Presentation at CREA: Center for Culturally Responsive Evaluation and Assessment: Inaugural Conference. Published as Extended Abstract. [pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Rossi, L. (in press) Student Off-Task Behavior in Computer-Based Learning in the Philippines: Comparison to Prior Research in the USA. To appear in Teachers College Record. [preprint draft pdf]
+Godwin, K.E., Almeda, M.V., Petroccia, M., Baker, R.S., Fisher, A.V. (in press) Classroom activities and off-task behavior in elementary school children. Poster paper. To appear in Proceedings of the Annual Meeting of the Cognitive Science Society.[pdf]
+Hershkovitz, A., Baker, R.S.J.d., Moore, G.R., Rossi, L.M., van Velsen, M. (in press) The Interplay between Affect and Engagement in Classrooms Using AIED Software. To appear in Proceedings of the 16th International Conference on Artificial Intelligence and Education.[pdf]
+Ocumpaugh, J., Baker, R.S.J.d., Gaudino, S., Labrum, M.J., Dezendorf, T. (in press) Field Observations of Engagement in Reasoning Mind. To appear in Proceedings of the 16th International Conference on Artificial Intelligence and Education.[pdf]*********************************************http://www.columbia.edu/~rsb2162/index.htmltext/htmlRyan Baker ( Ryan Shaun Joazeiro de Baker )
+Educational Data Mining	Intelligent Tutoring Systems	The Learning Sciences	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu              
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+I am Associate Professor of Cognitive Studies in Education in the Department of Human Development at at Teachers College Columbia University.
+I am also Program Coordinator of TC's Masters in Learning Analytics.
+I also have an affiliate appointment at Worcester Polytechnic Institute, in the Department of Social Science and Policy Studies.I am also a member of LearnLab.
+I am President of the International Educational Data Mining Society. I am also Associate Editor of the Journal of Educational Data Mining.
+	
+My research is at the intersection of Educational Data Mining and Human-Computer Interaction. I develop and use methods for mining the data that comes out of the interactions between students and educational software, in order to better understand how students respond to educational software, and how these responses impact their learning. I study these issues within intelligent tutors and educational games.
+In recent years, my colleagues and I have developed automated detectors that make inferences in real-time about students' affect and motivational and meta-cognitive behavior, using data from students' actions within educational software (no sensor, video, or audio data). We have in particular studied gaming the system, off-task behavior, carelessness, "WTF behavior", boredom, frustration, engaged concentration, and appropriate use of help and feedback. We use these models to make basic discoveries about human learning and learners. Many of these models are developed using data collected through the Baker Rodrigo Ocumpaugh Monitoring Protocol (BROMP), and the HART Android app.
+I have made some tools for EDM research available here.
+Selected Current and Upcoming Projects
+Predicting STEM Career Choice from Computational Indicators of Student Engagement within Middle School Mathematics Classes (funded by NSF ITEST)
+Classroom Environment, Allocation of Attention, and Learning Outcomes in K-4 Students (funded by IES)
+Understanding the Differences Between Rational and Machine-Learned Models of Gaming the System (funded by NSF-SLC PSLC)
+Modeling Relationship Between Affect and Robust Learning (funded by NSF-SLC PSLC)
+Detectors of Affect in Educational Software (funded by NSF-SLC PSLC and Gates Foundation)
+Studying Relationship Between Affect, Learning, and Persistence (funded by Gates Foundation)
+Detecting, Studying, and Adapting to Affect in Military Training (cooperative agreement with Army Research Laboratory)
+Creating Design Patterns for More Engaging Educational Software, Based on Evidence from EDM (funded by NSF REAL)
+Studying Social Factors that Impact Community Participation After Use of MOOCs (funded by NSF DIRITL)
+Studying Participation in Online Courses By Students From Underrepresented Groups (funded by Gates Foundation)
+Student Behavior in Educational Software Across Cultures
+Please check out my publications web page for recent papers.
+I organize the Learning Analytics Seminar Series at Teachers College.
+Teachers College now offers a Masters in Learning Analytics.
+Teachers College also offers a Focus in Learning Analytics, within the Masters program in Cognitive Studies in Education.
+I will be teaching the MOOC Big Data and Education on EdX, starting in June 2015.
+I have written a MOOT (Massive Online Open Textbook), Big Data and Education. This MOOT is based on a course taught on the Coursera platform in Fall 2013.
+Follow my research group on Twitter or Facebook.
+Quantitative Field Observation	Affective Computing	Human-Computer Interaction	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/misc.htmltext/htmlRyan Baker
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+Learning Analytics Seminar Series
+EDM Tools
+Baker-Rodrigo Observation Method Protocol (BROMP)
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/lak-concentration.htmltext/htmlMasters in Cognitive Studies in Education, Focus in Learning Analytics
+Masters in Cognitive Studies in Education, Focus in Learning Analytics
+Teachers College, Columbia University
+Study the emerging field of learning analytics from internationally-recognized experts at one of the top colleges of education on the planet.
+Over the last few years, the quantity of data about learning and learners has grown enormously, and with it comes the potential to improve education in ways that were difficult to imagine a few years ago. The fields of learning analytics (LA) and educational data mining (EDM) have emerged in recent years as communities working to answer the question "What do we do with all of this data?"
+In this focus, you will learn key LA/EDM methodologies in technical detail, and learn how to apply them to real-world problems. You will learn how to use LA and EDM algorithms and tools appropriately and effectively, and learn about relevant policy, legal, and ethical issues involved in conducting analytics on educational data. Your studies will be integrated with understanding of key theories of cognition and education, preparing you to apply learning analytics methods to make a difference in education.
+The skills you learn will prepare you for a range of 21st-century jobs, including working for educational technology companies and startups, educational think-tanks, and in data groups at city and state departments of education. Coursework will involve real-world data in a range of educational domains and applications, while integrating world-class offerings in cognition, educational theory, and statistics and measurement.
+Apply Now
+Application Instructions
+Please apply to the MA in Cognitive Studies in Education, in the Department of Human Development
+Note in your letter of application that you are applying to the Focus in Learning Analytics.
+If you have any questions, please contact Ryan Baker.
+Course Work
+Focus Courses (choose four)
+HUDK 4050: Core Methods in Educational Data Mining
+HUDK 4051: Learning Analytics: Process and Theory
+HUDK 4052: Normative Perspectives on the Analysis of Learners and Learning
+HUDK 5053: Feature Engineering Studio
+HUDK 4054: Managing Educational Data
+HUDK 5030: Visual Explanations
+HUDM 5124: Multidimensional Scaling and Clustering
+Core Courses for Cognitive Studies in Education
+HUDK 4029 Human Cognition and Learning
+HUDK 4080 Educational psychology
+HUDK 5023 Cognitive development
+Statistics/Research Design
+HUDM 5122 Applied regression analysis
+Research Practicum
+HUDK 5324 Research work practicum or by permission
+Breadth Requirement
+HUDM 4050 Introduction to measurement
+In addition, a minimum of two additional Teachers College courses outside of HUDK are selected in consultation with an advisor. Some potential courses include:
+HUDM 5123 Linear Models and Experimental Design
+HUDM 5133 Causal Inference for Program Evaluation
+HUDM 6051 Psychometric Theory I
+ITSF 4010 Cultural and social bases of education
+MSTU 4001 Technology and School Change
+MSTU 4020 Social and Communicative Aspects of the Internet and other ICTs
+MSTU 4022 Telecommunications, distance learning, and collaborative interchange
+MSTU 4036 Hypermedia and education
+MSTU 4037 Computers and the uses of information in education
+MSTU 4039 Video games in education
+MSTU 4052 Computers, problem solving, and cooperative learning
+MSTU 4083 Instructional design of educational technology
+MSTU 4085 New technologies for learning
+MSTU 4133 Cognition and computers
+MSTU 5001 Assessing the impact of technology in our schools
+MSTU 5005 Case-based Teaching and Learning in Electronic Environments
+MSTU 5030 Intelligent computer-assisted instruction
+MSTU 5035 Technology and Metacognition
+ORLA 5025 Ecology of data-driven leadership
+ORLA 6641 Advanced topics in research methods and design*********************************************http://www.columbia.edu/~rsb2162/edmtools.htmltext/htmlRyan Baker
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+All tools are copyright Ryan Baker and colleagues -- they are free for any non-commercial or research use. Partial credit for this distribution also accrues to Michael Sao Pedro, Ken Koedinger, Albert Corbett, Sujith Gowda, Aatish Salvi, Martin van Velsen, and Aaron Whiting, depending on tool. (Thanks for bug reports also goes out to Jim Kan and Robson Quel). Please contact me before using for any commercial use. This code is NOT supported. Use it at your own risk, and make sure to check that data is sorted properly. You are welcome to re-distribute this code as long as proper credit is given. If you use this code for a published paper, please cite the appropriate paper listed below.
+HART (Human Affect Recording Tool) (please cite Baker, Gowda, Wixon, Kalka, Wagner, Salvi, Aleven, Kusbit, Ocumpaugh, & Rossi, 2012) -- also see BROMP webpage
+Bayesian Knowledge Tracing Brute Force model fitting code (please cite Baker, Corbett, Gowda, Wagner, MacLaren, Kauffman, Mitchell, & Giguere, 2010)
+DataShop Feature Distillation (please cite Baker, Corbett, Koedinger, & Roll, 2008)
+Gaming Detector (please cite Baker & de Carvalho, 2008) and Off-Task Behavior Detector (please cite Baker, 2007)
+Models of Guessing and Slipping (please cite Baker, Corbett, & Aleven, 2008)
+A'/AUC Code: Code for computing A'/AUC that does not fail for cases where multiple data points have same confidence (paper in preparation); also can compare A'/AUC across models without violating independence assumption (please cite Baker, Corbett, & Aleven, 2008) (version 4, November 20, 2013)
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/teaching.htmltext/htmlRyan Baker
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Baker ( Ryan Shaun Joazeiro de Baker )	       baker2@exchange.tc.columbia.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+MASSIVE ONLINE OPEN TEXTBOOK (MOOT)
+Big Data and Education
+CURRENT COURSES
+ Spring 2015 
+HUDK 5053: Feature Engineering Studio
+HUDM 4122: Probability and Statistical Inference
+UPCOMING COURSES
+ TBD
+UPCOMING MOOCS
+ Big Data and Education (late Spring 2015)
+PAST COURSES
+ Fall 2014 
+HUDK 4050: Core Methods in Educational Data Mining
+Data, Analytics, and Learning [offered via edX]
+Spring 2014 
+HUDK 4051: Learning Analytics: Process and Theory
+Fall 2013 
+Big Data and Education [offered via Coursera]
+HUDK5199: Feature Engineering Studio [offered as graduate course at TC, Focus in Learning Analytics]
+Spring 2013 
+HUDK 5199: Special Topics in Educational Data Mining
+Spring 2012 
+Advanced Methods and Analysis for the Learning and Social Sciences
+Fall 2011 (A term) 
+Cognitive Psychology
+Spring 2011 
+Meta-Cognition, Motivation, and Affect
+Fall 2010 (B term)
+Cognitive Psychology
+Spring 2010
+Research Methods for the Learning Sciences
+For a full list of courses I have taught, please see my Curriculum Vitae
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/bigdataeducation.htmltext/htmlBig Data and Education
+
+ A Massive Online Open Textbook (MOOT) 
+ Version 1.01 
+ by Ryan Baker 
+ in cooperation between Teachers College, Columbia University and the Columbia Center for New Media Teaching and Learning 
+ with commentary by Luc Paquette and Ryan Baker (forthcoming)
+Chapter 1: Prediction Modeling 
+ Video 1: Introduction [YouTube] [pptx]
+ Video 2: Regressors [YouTube] [pptx]
+ Video 3: Classifiers part 1 [YouTube] [pptx]
+ Video 4: Classification in RapidMiner [YouTube] [pptx] [alert: this lecture has known flaws]
+ Video 5: Classifiers part 3 [YouTube] [pptx]
+ Video 6: Case study in classification [YouTube] [pptx]
+ Week One Commentary [pdf]
+Chapter 2: Model Goodness and Validation
+ Video 1: Detector confidence [YouTube] [pptx]
+ Video 2: Diagnostic metrics: kappa and accuracy [YouTube] [pptx]
+ Video 3: Diagnostic metrics: ROC and A' [YouTube] [pptx]
+ Video 4: Diagnostic metrics: Correlation and RMSE [YouTube] [pptx]
+ Video 5: Cross-validation and over-fitting [YouTube] [pptx]
+ Video 6: Other validity considerations [YouTube] [pptx]
+Chapter 3: Behavior Detecton
+ Video 1: Ground truth [YouTube] [pptx]
+ Video 2: Data synchronization [YouTube] [pptx]
+ Video 3: Feature engineering [YouTube] [pptx]
+ Video 4: Automated feature generation and selection [YouTube] [pptx]
+ Video 5: Knowledge engineering and data mining [YouTube] [pptx]
+Chapter 4: Knowledge Inference
+ Video 1: Knowledge Inference [YouTube] [pptx]
+ Video 2: Bayesian Knowledge Tracing [YouTube] [pptx]
+ Video 3: Performance Factors Analysis [YouTube] [pptx]
+ Video 4: Item Response Theory [YouTube] [pptx]
+ Video 5: Advanced Bayesian Knowledge Tracing [YouTube] [pptx]
+Chapter 5: Relationship Mining
+ Video 1: Correlation Mining [YouTube] [pptx]
+ Video 2: Causal Mining [YouTube] [pptx]
+ Video 3: Association Rule Mining [YouTube] [pptx]
+ Video 4: Sequential Pattern Mining [YouTube] [pptx]
+ Video 5: Network Analysis [YouTube] [pptx]
+Chapter 6: Visualization
+ Video 1: Introduction to Educational Visualization and Learning Curves [YouTube] [pptx]
+ Video 2: Moment-by-Moment Learning Graphs [YouTube] [pptx]
+ Video 3: Scatter Plots, Heat Maps, and Parameter Space Maps [YouTube] [pptx]
+ Video 4: State Space Networks [YouTube] [pptx]
+ Video 5: Other Visualizations [YouTube] [pptx]
+Chapter 7: Structure Discovery
+ Video 1: Clustering [YouTube] [pptx]
+ Video 2: Cluster Validation [YouTube] [pptx]
+ Video 3: Advanced Clustering Algorithms [YouTube] [pptx]
+ Video 4: Applications of Clustering in EDM [YouTube] [pptx]
+ Video 5: Factor Analysis [YouTube] [pptx]
+ Video 6: Knowledge Structure: Q-Matrixes [YouTube] [pptx]
+ Video 7: Knowledge Structures: Other Approaches [YouTube] [pptx]
+Chapter 8: Advanced Topics
+ Video 1: Discovery with Models [YouTube] [pptx]
+ Video 2: Discovery with Models Case Study [YouTube] [pptx]
+ Video 3: Text Mining [YouTube] [pptx]
+ Video 4: Hidden Markov Models [YouTube] [pptx]
+ Video 5: Conclusions and Future Directions [YouTube] [pptx]
+Upcoming in version 1.02: Additional commentaries by Luc Paquette and Ryan Baker.
+Upcoming in version 1.03: Corrections to slides recommended by students.
+Upcoming in future versions: Assignments, slides for use in lectures, forums, class cohorts, licensing, and more!
+Acknowledgements: Sincerest thanks to Elle Wang, Michael Cennamo, Stephanie Ogden, Michael de Leon, Therese Condit, students who have recommended additions or corrections, and others.
+An earlier version of these materials were offered through the Coursera platform in 2013 as "Big Data and Education".
+Bugs? Errors? Email Ryan Baker.
+Please cite this MOOT as Baker, R.S. (2014) Big Data and Education. New York, NY: Teachers College, Columbia University.
+All materials here copyright Teachers College, Columbia University, and Columbia University, 2013-2014.*********************************************http://www.columbia.edu/~rsb2162/publications.htmltext/htmlRyan Baker -- Publications
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Baker (Ryan Shaun Joazeiro de Baker)	       baker2@exchange.tc.columbia.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+New papers will be announced on our lab's Twitter and Facebook, and posted here.
+My page on Google Scholar.
+MOST CITED PAPERS
+Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17. [pdf] (325 citations as of 11/26/14)
+Baker, R.S., Corbett, A.T., Koedinger, K.R., Wagner, A.Z. (2004) Off-Task Behavior in the Cognitive Tutor Classroom: When Students "Game The System". Proceedings of ACM CHI 2004: Computer-Human Interaction, 383-390. [pdf] (275 citations as of 11/26/14)
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2004) Detecting Student Misuse of Intelligent Tutoring Systems. Proceedings of the 7th International Conference on Intelligent Tutoring Systems, 531-540. [pdf] (217 citations as of 11/26/14)
+Baker, R.S.J.d., D'Mello, S.K., Rodrigo, M.M.T., Graesser, A.C. (2010) Better to Be Frustrated than Bored: The Incidence, Persistence, and Impact of Learners' Cognitive-Affective States during Interactions with Three Different Computer-Based Learning Environments. International Journal of Human-Computer Studies, 68 (4), 223-241. [preprint draft pdf] (199 citations as of 11/26/14)
+JOURNAL PAPERS
+Baker, R., Clarke-Midura, J., Ocumpaugh, J. (in press) Towards General Models of Effective Science Inquiry in Virtual Performance Assessments. To appear in Journal of Computer Assisted Learning, Special Issue on Learning Analytics in Massively Multiuser Games, Virtual Environments and Courses. [preprint draft pdf]
+Gobert, J.D., Baker, R.S., Wixon, M.B. (in press) Operationalizing and Detecting Disengagement Within Online Science Microworlds. To appear in Educational Psychologist. [pdf]
+Ogan, A., Walker, E., Baker, R., Rodrigo, M.M.T., Soriano, J.C., Castro, M.J. (in press) Towards Understanding How to Assess Help-Seeking Behavior Across Cultures. To appear in International Journal of Artificial Intelligence in Education. [pdf]
+Wang, Y.E., Paquette, L., Baker, R. (in press) A Longitudinal Study on Learner Career Advancement in MOOCs. To appear in Journal of Learning Analytics. [pdf]
+Baker, R.S.J.d., Corbett, A.T., Gowda, S.M. (in press) Generalizing Automated Detection of the Robustness of Student Learning in an Intelligent Tutor for Genetics. To appear in the Journal of Educational Psychology.[preprint draft pdf]
+Koedinger, K.R., Brunskill, E., Baker, R.S.J.d., McLaughlin, E.A., Stamper, J. (in press) New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. To appear in AI Magazine.[preprint draft pdf]
+Roll, I., Baker, R.S.J. d., Aleven, V., Koedinger, K.R. (2014) On the Benefits of Seeking (and Avoiding) Help in Online Problem-Solving Environments. Journal of the Learning Sciences, 23 (4), 537-560. [preprint draft pdf]
+Baker, R.S., Corbett, A.T. (2014) Assessment of Robust Learning with Educational Data Mining. Research & Practice in Assessment, 9, 38-50. [pdf]
+Baker, R.S. (2014) Educational Data Mining: An Advance for Intelligent Systems in Education. IEEE Intelligent Systems,29 (3), 78-82. [preprint draft pdf]
+Berland, M., Baker, R.S., Blikstein, P. (2014) Educational data mining and learning analytics: Applications to constructionist research. Technology, Knowledge, and Learning, 19, 205-220.[preprint draft pdf].
+Miller, W.L., Baker, R.S., Rossi, L.M. (2014) Unifying Computer-Based Assessment Across Conceptual Instruction, Problem-Solving, and Digital Games. Technology, Knowledge, and Learning, 19, 165-181.[preprint draft pdf].
+Pardos, Z.A., Baker, R.S., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2014) Affective states and state tests: Investigating how affect and engagement during the school year predict end of year learning outcomes. Journal of Learning Analytics, 1 (1), 107-128.[preprint draft pdf].
+Ocumpaugh, J., Baker, R., Gowda, S., Heffernan, N., Heffernan, C. (2014) Population validity for Educational Data Mining models: A case study in affect detection. British Journal of Educational Technology, 45 (3), 487-501.[preprint draft pdf]
+San Pedro, M.O.Z., Baker, R.S.J.d., Mercedes, M.M.T. (2014) Carelessness and Affect in an Intelligent Tutoring System for Mathematics. International Journal of Artifiical Intelligence in Education, 24, 189-210.[preprint draft pdf]
+Baker, R.S.J.d., Hershkovitz, A., Rossi, L.M., Goldstein, A.B., Gowda, S.M. (2013) Predicting Robust Learning With the Visual Form of the Moment-by-Moment Learning Curve. Journal of the Learning Sciences, 22 (4), 639-666.[preprint draft pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Rossi, L. (2013) Student Off-Task Behavior in Computer-Based Learning in the Philippines: Comparison to Prior Research in the USA. Teachers College Record, 115 (10), 1-27. [preprint draft pdf]
+Gowda, S.M., Baker, R.S.J.d., Corbett, A.T., Rossi, L.M. (2013) Towards Automatically Detecting Whether Student Learning is Shallow. International Journal of Artificial Intelligence in Education, 23 (1), 50-70. [pdf]
+Winne, P.H., Baker, R.S.J.d. (2013) The Potentials of Educational Data Mining for Researching Metacognition, Motivation, and Self-Regulated Learning. Journal of Educational Data Mining, 5 (1), 1-8. [pdf]
+Sao Pedro, M.A., Baker, R.S.J.d., Gobert, J., Montalvo, O. Nakama, A. (2013) Leveraging Machine-Learned Detectors of Systematic Inquiry Behavior to Estimate and Predict Transfer of Inquiry Skill. User Modeling and User-Adapted Interaction, 23 (1), 1-39. [preprint draft pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Wixon, M., Sao Pedro, M. (2013) Discovery with Models: A Case Study on Carelessness in Computer-based Science Inquiry. American Behavioral Scientist, 57 (10), 1479-1498.[preprint draft pdf]
+Porayska-Pomsta, K., Mavrikis, M., D'Mello, S., Conati, C., Baker, R.S.J.d. (2013) Knowledge Elicitation Methods for Affect Modeling in Education. International Journal of Artificial Intelligence in Education, 22 (3), 107-140.[preprint draft pdf]
+Gobert, J.D., Sao Pedro, M., Raziuddin, J., Baker, R. (2013) From Log Files to Assessment Metrics: Measuring Students' Science Inquiry Skills Using Educational Data Mining. Journal of the Learning Sciences, 22 (4), 521-563.[official pdf]
+Gobert, J.D., Sao Pedro, M.A., Baker, R.S.J.d., Toto, E., Montalvo, O. (2012) Leveraging Educational Data Mining for Real-time Perfomance Assesment of Scientific Inquiry Skills within Microworlds. Journal of Educational Data Mining, 4 (1), 111-143. [pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Agapito, J., Nabos, J., Repalam, M.C., Reyes, S.S., San Pedro, M.C.Z. (2012) The Effects of an Interactive Software Agent on Student Affective Dynamics while Using an Intelligent Tutoring System. IEEE Transactions on Affective Computing, 3 (2), 224-236. [preprint draft pdf]
+Desmarais, M.C., Baker, R.S.J.d. (2012) A Review of Recent Advances in Learner and Skill Modeling in Intelligent Learning Environments. User Modeling and User-Adapted Interaction, 22 (1-2), 9-38.[preprint draft pdf]
+Baker, R.S.J.d., Goldstein, A.B., Heffernan, N.T. (2011) Detecting Learning Moment-by-Moment. International Journal of Artificial Intelligence in Education, 21 (1-2), 5-25. [preprint draft pdf]
+Pardos, Z.A., Baker, R.S.J.d., Gowda, S.M., Heffernan, N.T. (2011) The Sum is Greater than the Parts: Ensembling Models of Student Knowledge in Educational Software. SIGKDD Explorations, 13 (2), 37-44. [preprint draft pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d. (2011) Comparing Learners' Affect While Using an Intelligent Tutor and an Educational Game. Research and Practice in Technology Enhanced Learning, 6 (1), 43-66. [preprint draft pdf]
+Baker, R.S.J.d. (2011) Gaming the System: A Retrospective Look. Philippine Computing Journal, 6 (2), 9-13. [pdf]
+Baker, R.S.J.d., Isotani, S., de Carvalho, A. (2011) Minera¡ç¡ão de Dados Educacionais: Oportunidades para o Brasil. Revista Brasileira de Inform¡ática na Educa¡ç¡ão.[preprint draft pdf], 19 (2), 3-13
+Baker, D.J., Baker, R.S.J.d., Uhing, B. (2011) Content of Instruction for Transition-age Youth with Disabilities: A Brief Report. National Association for the Dually Diagnosed (NADD) Bulletin, 14 (5), 89-94.
+Baker, R.S.J.d., D'Mello, S.K., Rodrigo, M.M.T., Graesser, A.C. (2010) Better to Be Frustrated than Bored: The Incidence, Persistence, and Impact of Learners' Cognitive-Affective States during Interactions with Three Different Computer-Based Learning Environments. International Journal of Human-Computer Studies, 68 (4), 223-241. [preprint draft pdf] (147 citations as of 5/9/14)
+Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17. [pdf] (243 citations as of 5/9/14)
+Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314. [official pdf] [pdf] (99 citations as of 5/9/14)
+Baker, R., Walonoski, J., Heffernan, N., Roll, I., Corbett, A., Koedinger, K. (2008) Why Students Engage in "Gaming the System" Behavior in Interactive Learning Environments. Journal of Interactive Learning Research, 19 (2), 185-224. [pdf] (83 citations as of 5/9/14)
+Baker, R.S.J.d., Corbett, A.T., Koedinger, K.R. (2007) The Difficulty Factors Approach to the Design of Lessons in Intelligent Tutor Curricula. International Journal of Artificial Intelligence in Education, 17 (4), 341-369. [pdf]
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2006) Responding to Problem Behaviors in Cognitive Tutors: Towards Educational Systems Which Support All Students. National Association for the Dually Diagnosed (NADD) Bulletin, 9 (4), 70-75. [pdf]
+Tamassia R., Goodrich M.T., Vismara L., Handy M., Cohen R., Hudson B., Baker, R.S., Gelfand, N., Shubina G., Brandes U. (2001) JDSL: The Data Structures Library in Java. Dr. Dobb's Journal and Sourcebook, April 2001, 21-33.
+BOOK CHAPTERS
+Baker, R.S.J.d., Inventado, P.S. (in press) Educational Data Mining and Learning Analytics. To appear in J.A. Larusson, B. White (Eds.) Learning Analytics: From Research to Practice. Berlin, Germany: Springer. [preprint draft pdf]
+Baker, R.S.J.d., Ocumpaugh, J. (in press) Interaction-Based Affect Detection in Educational Software. In R.A. Calvo, S.K. D'Mello, J. Gratch, A. Kappas (Eds.), Handbook of Affective Computing. Oxford, UK: Oxford University Press.
+Baker, R., Siemens, G. (2014) Educational data mining and learning analytics. In Sawyer, K. (Ed.) Cambridge Handbook of the Learning Sciences: 2nd Edition, pp. 253-274. [preprint draft pdf]
+DeFalco, J.A., Baker, R.S., D'Mello, S.K. (2014) Addressing Behavioral Disengagement in Online Learning. In Sottilare, R., Graesser, A., Hu, X., and Goldberg, B. (Eds.). Design Recommendations for Intelligent Tutoring Systems: Volume 2 - Instructional Management, pp. 49-56. Orlando, FL: U.S. Army Research Laboratory. [pdf]
+D'Mello, S., Blanchard, N., Baker, R., Ocumpaugh, J., Brawner, K. (2014) I Feel Your Pain: A Selective Review of Affect-Sensitive Instructional Strategies. In Sottilare, R., Graesser, A., Hu, X., and Goldberg, B. (Eds.). Design Recommendations for Intelligent Tutoring Systems: Volume 2 - Instructional Management, pp. 35-48. Orlando, FL: U.S. Army Research Laboratory. [pdf]
+Baker, R.S.J.d. (2013) Learning, Schooling, and Data Analytics. Handbook on Innovations in Learning for States, Districts, and Schools, pp.179-190. Philadelphia, PA: Center on Innovations in Learning.[pdf]
+Baker, R.S.J.d., Rossi, L.M. (2013) Assessing the Disengaged Behavior of Learners. In Sottilare, R., Graesser, A., Hu, X., & Holden, H. (Eds.) Design Recommendations for Intelligent Tutoring Systems -- Volume 1 -- Learner Modeling. U.S. Army Research Lab, Orlando, FL, pp. 155-166, 2013.[pdf]
+Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R., Aleven, V., Cocea, M., Hershkovitz, A., de Carvalho, A.M.J.B., Mitrovic, A., Mathews, M. (2013) Modeling and Studying Gaming the System with Educational Data Mining. In Azevedo, R., & Aleven, V. (Eds.) International Handbook of Metacognition and Learning Technologies. pp. 97-116. New York, NY: Springer.
+Rodrigo, M.M.T., Baker, R.S.J.d. (2011) Comparing the Incidence and Persistence of Learners' Affect During Interactions with Different Educational Software Packages. Calvo, R.A., & D'Mello, S. (Eds.) New Perspectives on Affect and Learning Technologies, pp. 183-202. New York, NY: Springer.
+Koedinger, K.R., Baker, R.S.J.d., Cunningham, K., Skogsholm, A., Leber, B., Stamper, J. (2010) A Data Repository for the EDM community: The PSLC DataShop. In Romero, C., Ventura, S., Pechenizkiy, M., Baker, R.S.J.d. (Eds.) Handbook of Educational Data Mining. Boca Raton, FL: CRC Press, pp. 43-56. (110 citations as of 5/9/14)
+Romero, C., Ventura, S., Pechenizkiy, M., Baker, R.S.J.d. (2010) Introduction. In Romero, C., Ventura, S., Pechenizkiy, M., Baker, R.S.J.d. (Eds.) Handbook of Educational Data Mining. Boca Raton, FL: CRC Press, pp. 1-8.
+Baker, R.S.J.d. (2010) Mining Data for Student Models. In Nkmabou, R., Mizoguchi, R., & Bourdeau, J. (Eds.) Advances in Intelligent Tutoring Systems, pp. 323-338. Secaucus, NJ: Springer. [draft pdf]
+Baker, R.S.J.d. (2010) Data Mining for Education. In McGaw, B., Peterson, P., Baker, E. (Eds.) International Encyclopedia of Education (3rd edition), vol. 7, pp. 112-118. Oxford, UK: Elsevier. [draft pdf] (100 citations as of 5/9/14)
+Koedinger, K., Aleven, V., Roll, I., Baker, R. (2009) In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. Graesser, A., Hacker, D. (Eds.), Handbook of Metacognition in Education, 383-412.[draft pdf]
+EDITED BOOKS
+Romero, C., Ventura, S., Pechenizkiy, M., Baker, R.S.J.d. (Eds.) Handbook of Educational Data Mining. Boca Raton, FL: CRC Press. (63 citations as of 5/9/14)
+CONFERENCE AND WORKSHOP FULL PAPERS
+Kovanovic, V., Gasevic, D., Dawson, S., Joksimovic, S., Baker, R.S., Hatala, M. (in press) Penetrating the Black Box of Time-on-task Estimation. To appear in Proceedings of the 5th International Learning Analytics and Knowledge Conference. [pdf] [Nominated for Best Paper Award]
+Bosch, N., D'Mello, S., Baker, R., Ocumpaugh, J., Shute, V., Ventura, M., Wang, L., Zhao, W. (in press) Automatic Detection of Learning-Centered Affective States in the Wild. To appear in Proceedings of the 2015 International Conference on Intelligent User Interfaces (IUI 2015). [pdf]
+Miller, W.L., Baker, R.S., Labrum, M.J., Petsche, K., Wagner, A.Z. (2014) Boredom Across Activites, and Across the Year, within Reasoning Mind. Proceedings of the Workshop on Data Mining for Educational Assessment and Feedback. [pdf]
+Paquette, L., de Carvalho, A.M.J.A., Baker, R.S. (2014) Towards Understanding Expert Coding of Student Disengagement in Online Learning. Proceedings of the 36th Annual Cognitive Science Conference, 1126-1131. [pdf]
+Bazaldua, D.A.L., Baker, R.S., San Pedro, M.O.Z. (2014) Combining Expert and Metric-Based Assessments of Association Rule Interestingness. Proceedings of the 7th International Conference on Educational Data Mining, 44-51. [pdf]
+Baker, R.S., Ocumpaugh, J., Gowda, S.M., Kamarainen, A., Metcalf, S.J. (2014) Extending Log-Based Affect Detection to a Multi-User Virtual Environment for Science. To appear in Proceedings of the 22nd Conference on User Modelling, Adaptation, and Personalization, 290-300.[corrected pdf] [erratum]
+Sao Pedro, M., Jiang, Y., Paquette, L., Baker, R.S., Gobert, J. (2014) Identifying Transfer of Inquiry Skills across Physical Science Simulations using Educational Data Mining. Proceedings of the 11th International Conference of the Learning Sciences.[pdf]
+Ocumpaugh, J., Baker, R.S., Kamarainen, A.M., Metcalf, S.J. (2014) Modifying Field Observation Methods on the Fly: Metanarrative and Disgust in an Environmental MUVE. Proceedings of PALE 2013: The 4th International Workshop on Personalization Approaches in Learning Environments, 49-54.[corrected pdf] [erratum]
+Paquette, L., Baker, R.S., Sao Pedro, M.A., Gobert, J.D., Rossi, L., Nakama, A., Kauffman-Rogoff, Z. (2014) Sensor-Free Affect Detection for a Simulation-Based Science Inquiry Learning Environment. Proceedings of the 12th International Conference on Intelligent Tutoring Systems, 1-10.[pdf]
+Sao Pedro, M., Gobert, J., Baker, R. (2014) The Impacts of Automatic Scaffolding on Students' Acquisition of Data Collection Inquiry Skills. Paper presented at the 2014 Annual Meeting of the American Educational Research Association.[pdf]
+Baker, R.S., DeFalco, J.A., Ocumpaugh, J., Paquette, L. (2014) Towards Detection of Engagement and Affect in a Simulation-based Combat Medic Training Environment. Paper presented at 2nd Annual GIFT User Symposium (GIFTSym2).[pdf]
+Carvalho, A.M.J, Stahelin, N., Baker, R.S.J. (2014) An Integrative Program Modeling Authentic Field Science Experiences for Students. Proceedings of the 43rd North American Association of Environmental Education.
+Hawkins, W., Heffernan, N., Baker, R.S.J.d. (2013) Which is more responsible for boredom in intelligent tutoring systems: students (trait) or problems (state)? Proceedings of the 5th biannual Conference on Affective Computing and Intelligent Interaction. [pdf]
+San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with an Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184. [pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gowda, S.M., Corbett, A.T. (2013) Predicting Future Learning Better Using Quantitative Analysis of Moment-by-Moment Learning. Proceedings of the 6th International Conference on Educational Data Mining, 74-81. [pdf]
+Sao Pedro, M.A., Baker, R.S.J.d., Gobert, J.D. (2013) Incorporating Scaffolding and Tutor Context into Bayesian Knowledge Tracing to Predict Inquiry Skill Acquisition. Proceedings of the 6th International Conference on Educational Data Mining, 185-192. [pdf]
+Liu, Z., Pataranutaporn, V., Ocumpaugh, J., Baker, R.S.J.d. (2013) Sequences of Frustration and Confusion, and Learning. Proceedings of the 6th International Conference on Educational Data Mining, 114-120. [pdf]
+Hawkins, W., Heffernan, N.T., Wang, Y., Baker, R.S.J.d. (2013) Extending the Assistance Model: Analyzing the Use of Assistance over Time. Proceedings of the 6th International Conference on Educational Data Mining, 59-66. [pdf]
+San Pedro, M.O.Z., Baker, R.S.J.d., Gowda, S.M., Heffernan, N.T. (2013) Towards an Understanding of Affect and Knowledge from Student Interaction with an Intelligent Tutoring System. Proceedings of the 16th International Conference on Artificial Intelligence and Education, 41-50. [pdf]
+Doddannara, L., Gowda, S., Baker, R.S.J.d., Gowda, S., de Carvalho, A.M.J.B (2013) Exploring the relationships between design, students affective states, and disengaged behaviors within an ITS. Proceedings of the 16th International Conference on Artificial Intelligence and Education, 31-40.[pdf]
+Corbett, A., MacLaren, B., Wagner, A., Kauffman, L., Mitchell, A., Baker, R.S.J.d. (2013) Differential Impact of Learning Activities Designed to Support Robust Learning in the Genetics Cognitive Tutor. Proceedings of the 16th International Conference on Artificial Intelligence and Education, 319-328.[pdf]
+Baker, R.S.J.d., Clarke-Midura, J. (2013) Predicting Successful Inquiry Learning in a Virtual Performance Assessment for Science. Proceedings of the 21st International Conference on User Modeling, Adaptation, and Personalization, 203-214.[pdf]
+DeFalco, J.A., Baker, R.S.J.d. (2013) Detection and Transition Analysis of Engagement and Affect in a Simulation-based Combat Medic Training Environment. AIED 2013 Workshop on GIFT. [pdf]
+Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013) Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. Proceedings of the 3rd International Conference on Learning Analytics and Knowledge, 117-124.[pdf]
+Baker, R.S.J.d., Gowda, S., Corbett, A., Ocumpaugh, J. (2012) Towards Automatically Detecting Whether Student Learning is Shallow. Proceedings of the International Conference on Intelligent Tutoring Systems, 444-453. [Won Best Paper Award] [pdf]
+Sao Pedro, M., Baker, R.S.J.d., Gobert, J. (2012) Improving Construct Validity Yields Better Models of Systematic Inquiry, Even with Less Information. Proceedings of the 20th International Conference on User Modeling, Adaptation and Personalization (UMAP 2012),249-260. [Won James Chen Best Student Paper Award] [pdf]
+Sao Pedro, M.A., Gobert, J., Baker, R.S.J.d. (2012) The Development and Transfer of Data Collection Inquiry Skills across Physical Science Microworlds. Paper presented at the American Educational Research Association Conference.[pdf] [Won Best Student Paper Award, AERA SIG-ATL]
+Baker, R.S.J.d., Gowda, S.M., Wixon, M., Kalka, J., Wagner, A.Z., Salvi, A., Aleven, V., Kusbit, G., Ocumpaugh, J., Rossi, L. (2012) Towards Sensor-free Affect Detection in Cognitive Tutor Algebra. Proceedings of the 5th International Conference on Educational Data Mining, 126-133.[pdf] [A' erratum] [also note: this paper was previously listed on this page with an incorrect title]
+Ogan, A., Walker, E., Baker, R.S.J.d., de Carvalho, A., Laurentino, T., Rebolledo-Mendez, G., Castro, M.J. (2012) Collaboration in Cognitive Tutor Use in Latin America: Field Study and Design Recommendations. Proceedings of ACM SIGCHI: Computer-Human Interaction, 1381-1390. [pdf]
+Wixon, M., Baker, R.S.J.d., Gobert, J., Ocumpaugh, J., Bachmann, M. (2012) WTF? Detecting Students who are Conducting Inquiry Without Thinking Fastidiously. Proceedings of the 20th International Conference on User Modeling, Adaptation and Personalization (UMAP 2012), 286-298.[pdf] [A' erratum]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Nakama, A. (2012) A Data-driven Path Model of Student Attributes, Affect, and Engagement in a Computer-based Science Inquiry Microworld. Proceedings of the International Conference on the Learning Sciences.[pdf]
+Gowda, S., Pardos, Z., Baker, R.S.J.d. (2012) Content Learning Analysis Using the Moment-By-Moment Learning Detector. Proceedings of the International Conference on Intelligent Tutoring Systems, 434-443.[pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Kauffman-Rogoff, Z., Wixon, M. (2012) Student Attributes, Affective States, and Engagement in Science Inquiry Microworlds. Paper presented at The European Association for Research on Learning and Instruction (EARLI) SIG 20 Conference.
+Baker, R.S.J.d., Gowda, S., Corbett, A.T. (2011) Towards predicting future transfer of learning. Proceedings of 15th International Conference on Artificial Intelligence in Education, 23-30. [pdf] [Finalist for Best Paper Award]
+Baker, R.S.J.d., Gowda, S.M., Corbett, A.T. (2011) Automatically Detecting a Student's Preparation for Future Learning: Help Use is Key. Proceedings of the 4th International Conference on Educational Data Mining, 179-188.[pdf]
+Baker, R.S.J.d., Moore, G., Wagner, A., Kalka, J., Karabinos, M., Ashe, C., Yaron, D. (2011) The Dynamics Between Student Affect and Behavior Occuring Outside of Educational Software. Proceedings of the 4th bi-annual International Conference on Affective Computing and Intelligent Interaction.[pdf]
+Lee, D.M., Rodrigo, M.M., Baker, R.S.J.d., Sugay, J., Coronel, A. (2011) Exploring the Relationship Between Novice Programmer Confusion and Achievement. Proceedings of the 4th bi-annual International Conference on Affective Computing and Intelligent Interaction.[pdf]
+San Pedro, M.O.C., Rodrigo, M.M., Baker, R.S.J.d. (2011) The Relationship between Carelessness and Affect in a Cognitive Tutor. Proceedings of the 4th bi-annual International Conference on Affective Computing and Intelligent Interaction.[pdf]
+Gowda, S., Baker, R.S.J.d., Pardos, Z., Heffernan, N. (2011) The Sum is Greater than the Parts: Ensembling Student Knowledge Models in ASSISTments. Proceedings of the KDD 2011 Workshop on KDD in Educational Data.[pdf]
+Corbett, A., MacLaren, B., Wagner, A., Kauffman, L., Mitchell, A., Baker, R.S.J.d., Gowda, S.M. (2011) Preparing Students for Effective Explaining of Worked Examples in the Genetics Tutor. Proceedings of the 33rd Annual Meeting of the Cognitive Science Society, 1476-1481.[pdf]
+Baker, R.S.J.d., Pardos, Z., Gowda, S., Nooraei, B., Heffernan, N. (2011) Ensembling Predictions of Student Knowledge within Intelligent Tutoring Systems. Proceedings of 19th International Conference on User Modeling, Adaptation, and Personalization, 13-24.[pdf]
+Pardos, Z. A., Gowda, S. M., Baker, R.S.J.d., Heffernan, N. T. (2011) Ensembling Predictions of Student Post-Test Scores for an Intelligent Tutoring System. Proceedings of the 4th International Conference on Educational Data Mining, 189-198.[pdf]
+Gowda, S.M., Rowe, J.P., Baker, R.S.J.d., Chi, M., Koedinger, K.R. (2011) Improving Models of Slipping, Guessing, and Moment-by-Moment Learning with Estimates of Skill Difficulty. Proceedings of the 4th International Conference on Educational Data Mining, 199-208.[pdf]
+Nooraei, B.B., Pardos, Z.A., Heffernan, N.T., Baker, R.S.J.d. (2011) Less is More: Improving the Speed and Prediction Power of Knowledge Tracing by Using Less Data. Proceedings of the 4th International Conference on Educational Data Mining, 101-109.[pdf]
+San Pedro, M.O.C., Baker, R., Rodrigo, M.M. (2011) Detecting Carelessness through Contextual Estimation of Slip Probabilities among Students Using an Intelligent Tutor for Mathematics. Proceedings of 15th International Conference on Artificial Intelligence in Education, 304-311.[pdf]
+Baker, R.S.J.d., Corbett, A.T., Gowda, S.M., Wagner, A.Z., MacLaren, B.M., Kauffman, L.R., Mitchell, A.P., Giguere, S. (2010) Contextual Slip and Prediction of Student Performance After Use of an Intelligent Tutor. Proceedings of the 18th Annual Conference on User Modeling, Adaptation, and Personalization, 52-63. [pdf] [Finalist for Best Paper Award] (50 citations as of 5/9/14)
+Baker, R.S.J.d., Mitrovic, A., Mathews, M. (2010) Detecting Gaming the System in Constraint-Based Tutors. Proceedings of the 18th Annual Conference on User Modeling, Adaptation, and Personalization, 267-278.[pdf]
+Baker, R.S.J.d., Goldstein, A.B., Heffernan, N.T. (2010) Detecting the Moment of Learning. Proceedings of the 10th Annual Conference on Intelligent Tutoring Systems, 25-34. [pdf] [People's Choice Award for Best Oral Presentation] [Finalist for Best Paper Award]
+Baker, R.S.J.d., Gowda, S.M. (2010) An Analysis of the Differences in the Frequency of Students' Disengagement in Urban, Rural, and Suburban High Schools. Proceedings of the 3rd International Conference on Educational Data Mining, 11-20. [pdf]
+Sao Pedro, M. A., Baker, R.S.J.d., Montalvo, O., Nakama, A., Gobert, J.D. (2010) Using Text Replay Tagging to Produce Detectors of Systematic Experimentation Behavior Patterns. Proceedings of the 3rd International Conference on Educational Data Mining, 181-190. [pdf]
+Montalvo, O., Baker, R.S.J.d., Sao Pedro, M.A., Nakama, A., Gobert, J.D. (2010) Identifying Student' Inquiry Planning Using Machine Learning. Proceedings of the 3rd International Conference on Educational Data Mining, 141-150.[pdf]
+Baker, R.S.J.d., de Carvalho, A.M.J.A., Raspat, J., Aleven, V., Corbett, A.T., Koedinger, K.R. (2009) Educational Software Features that Encourage and Discourage "Gaming the System". Proceedings of the 14th International Conference on Artificial Intelligence in Education, 475-482. [corrected pdf] [erratum] [Honorable Mention for Best Paper Award]
+Baker, R.S.J.d. (2009) Differences Between Intelligent Tutor Lessons, and the Choice to Go Off-Task. Proceedings of the 2nd International Conference on Educational Data Mining, 11-20. [pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d. (2009) Coarse-Grained Detection of Student Frustration in an Introductory Programming Course. Proceedings of ICER 2009: the International Computing Education Workshop. [pdf]
+Rodrigo, M.M.T., Baker, R.S., Jadud, M.C., Amarra, A.C.M., Dy, T., Espejo-Lahoz, M.B.V., Lim, S.A.L., Pascua, S.A.M.S., Sugay, J.O., Tabanao, E.S. (2009) Affective and Behavioral Predictors of Novice Programmer Achievement. Proceedings of the 14th ACM-SIGCSE Annual Conference on Innovation and Technology in Computer Science Education, 156-160. [pdf]
+Prata, D.N., Baker, R.S.J.d., Costa, E., Rosé, C.P., Cui, Y., de Carvalho, A.M.J.B. (2009) Detecting and Understanding the Impact of Cognitive and Interpersonal Conflict in Computer Supported Collaborative Learning Environments. Proceedings of the 2nd International Conference on Educational Data Mining, 131-140. [pdf]
+Cocea, M., Hershkovitz, A., Baker, R.S.J.d. (2009) The Impact of Off-task and Gaming Behaviors on Learning: Immediate or Aggregate? Proceedings of the 14th International Conference on Artificial Intelligence in Education, 507-514. [pdf]
+Shute, V., Levy, R., Baker, R., Beck, J. (2009) Intelligent Educational Systems with Embedded Assessment to Support Learning: A Peek into the Future. Proceedings of the AIED2009 Workshop on Intelligent Educational Games.[pdf]
+Baker, R.S.J.d., Corbett, A.T., Aleven, V. (2008) Improving Contextual Models of Guessing and Slipping with a Truncated Training Set.Proceedings of the 1st International Conference on Educational Data Mining, 67-76.[corrected pdf] [erratum]
+Baker, R.S.J.d., de Carvalho, A. M. J. A. (2008) Labeling Student Behavior Faster and More Precisely with Text Replays. Proceedings of the 1st International Conference on Educational Data Mining, 38-47.[pdf]
+Baker, R.S.J.d., Corbett, A.T., Aleven, V. (2008) More Accurate Student Modeling Through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing. Proceedings of the 9th International Conference on Intelligent Tutoring Systems, 406-415. [corrected pdf] [erratum] (101 citations as of 5/9/14)
+Rodrigo, M.M.T., Baker, R.S.J.d., d'Mello, S., Gonzalez, M.C.T., Lagud, M.C.V., Lim, S.A.L., Macapanpan, A.F., Pascua, S.A.M.S., Santillano, J.Q., Sugay, J.O., Tep, S., Viehland, N.J.B. (2008) Comparing Learners' Affect While Using an Intelligent Tutoring Systems and a Simulation Problem Solving Game. Proceedings of the 9th International Conference on Intelligent Tutoring Systems, 40-49. [pdf]
+Rodrigo, M.M.T., Anglo, E.A., Sugay, J.O., Baker, R.S.J.d. (2008) Use of Unsupervised Clustering to Characterize Learner Behaviors and Affective States while Using an Intelligent Tutoring System. Proceedings of International Conference on Computers in Education, 49-56.[pdf]
+Rodrigo, M.M.T., Rebolledo-Mendez, G., Baker, R.S.J.d., du Boulay, B., Sugay, J.O., Lim, S.A.L., Espejo-Lahoz, M.B., Luckin, R. (2008) The Effects of Motivational Modeling on Affect in an Intelligent Tutoring System. Proceedings of International Conference on Computers in Education, 57-64.[pdf]
+Baker, R.S.J.d., Rodrigo, M.M.T., Xolocotzin, U.E. (2007) The Dynamics of Affective Transitions in Simulation Problem-Solving Environments. Proceedings of the Second International Conference on Affective Computing and Intelligent Interaction . [pdf]
+Baker, R.S.J.d., Habgood, M.P.J., Ainsworth, S.E., Corbett, A.T. (2007) Modeling the Acquisition of Fluent Skill in Educational Action Games. Proceedings of User Modeling 2007, 17-26. [pdf]
+Baker, R.S.J.d. (2007) Modeling and Understanding Students' Off-Task Behavior in Intelligent Tutoring Systems. Proceedings of ACM CHI 2007: Computer-Human Interaction, 1059-1068. [Honorable Mention for Best Paper Award] [pdf] (78 citations as of 5/9/14)
+Rodrigo, M.M.T., Baker, R.S.J.d., Lagud, M.C.V., Lim, S.A.L., Macapanpan, A.F., Pascua, S.A.M.S., Santillano, J.Q., Sevilla, L.R.S., Sugay, J.O., Tep, S., Viehland, N.J.B. (2007) Affect and Usage Choices in Simulation Problem Solving Environments. Proceedings of Artificial Intelligence in Education 2007, 145-152. [pdf]
+Baker, R.S.J.d. (2007) Is Gaming the System State-or-Trait? Educational Data Mining Through the Multi-Contextual Application of a Validated Behavioral Model. Complete On-Line Proceedings of the Workshop on Data Mining for User Modeling at the 11th International Conference on User Modeling 2007, 76-80. [pdf]
+Baker, R.S.J.d., Corbett, A.T., Koedinger, K.R., Evenson, S.E., Roll, I., Wagner, A.Z., Naim, M., Raspat, J., Baker, D.J., Beck, J. (2006) Adapting to When Students Game an Intelligent Tutoring System. Proceedings of the 8th International Conference on Intelligent Tutoring Systems, 392-401. [Won Best Paper Award] [pdf] (121 citations as of 5/9/14)
+Baker, R.S.J.d., Corbett, A.T., Koedinger, K.R., Roll, I. (2006) Generalizing Detection of Gaming the System Across a Tutoring Curriculum. Proceedings of the 8th International Conference on Intelligent Tutoring Systems, 402-411. [Finalist for Best Paper Award] [pdf]
+Baker, R.S.J.d., Corbett, A.T., Wagner, A.Z. (2006) Human Classification of Low-Fidelity Replays of Student Actions. Proceedings of the Educational Data Mining Workshop at the 8th International Conference on Intelligent Tutoring Systems, 29-36. [pdf]
+Roll, I., Aleven, V., McLaren, B.M., Ryu, E., Baker, R.S.J.d., Koedinger, K.R. (2006) The Help Tutor: Does Metacognitive Feedback Improve Students' Help-Seeking Actions, Skills, and Learning? Proceedings of the 8th International Conference on Intelligent Tutoring Systems, 360-369. [pdf]
+Baker, R.S., Roll, I., Corbett, A.T., Koedinger, K.R. (2005) Do Performance Goals Lead Students to Game the System? Proceedings of the International Conference on Artificial Intelligence and Education (AIED2005), 57-64. [Finalist for Best Paper Award] [pdf]
+Fogarty, J., Baker, R., Hudson, S. (2005) Case Studies in the use of ROC Curve Analysis for Sensor-Based Estimates in Human Computer Interaction. Proceedings of Graphics Interface (GI 2005), 129-136. [pdf] (67 citations as of 5/9/14)
+Roll, R., Baker, R., Aleven, V., McLaren, B., Koedinger, K. (2005) Modeling Students' Metacognitive Errors in Two Intelligent Tutoring Systems. Proceedings of User Modeling 2005, 367-376. [pdf]
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2004) Detecting Student Misuse of Intelligent Tutoring Systems. Proceedings of the 7th International Conference on Intelligent Tutoring Systems, 531-540. [pdf] (204 citations as of 5/9/14)
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2004) Learning to Distinguish Between Representations of Data: a Cognitive Tutor That Uses Contrasting Cases. Proceedings of the International Conference of the Learning Sciences, 58-65. [pdf]
+Baker, R.S., Corbett, A.T., Koedinger, K.R., Wagner, A.Z. (2004) Off-Task Behavior in the Cognitive Tutor Classroom: When Students "Game The System". Proceedings of ACM CHI 2004: Computer-Human Interaction, 383-390. [pdf] (240 citations as of 5/9/14)
+Baker R.S., Corbett A.T., Koedinger K.R., Schneider, M.P. (2003)A Formative Evaluation of a Tutor for Scatterplot Generation: Evidence on Difficulty Factors. Proceedings of the Conference on Artificial Intelligence in Education, 107-115. [pdf]
+Baker R.S., Corbett A.T., Koedinger K.R. (2002) The Resilience of Overgeneralization of Knowledge about Data Representations. Presented at American Educational Research Association Conference. [pdf]
+Baker R.S., Corbett A.T., Koedinger K.R. (2001) Toward a Model of Learning Data Representations. Proceedings of the 23rd Conference of the Cognitive Science Society, 45-50 [pdf]
+Baker, R.S., Boilen, M., Goodrich, M., Tamassia, R., and Stibel, B.A. (1999) Testers and Visualizers for Teaching Data Structures. 30th ACM SIGCSE Technical Symposium on Computer Science Education, 261-265. [pdf] (61 citations as of 5/9/14)
+CONFERENCE POSTERS AND SHORT PAPERS
+San Pedro, M.O., Baker, R., Heffernan, N., Ocumpaugh, J. (in press) Exploring College Major Choice and Middle School Student Behavior, Affect and Learning: What Happens to Students Who Game the System? To appear in Proceedings of the 5th International Learning Analytics and Knowledge Conference.
+Miller, W.L., Baker, R., Labrum, M., Petsche, K., Liu, Y-H., Wagner, A. (in press) Automated Detection of Proactive Remediation by Teachers in Reasoning Mind Classrooms. To appear in Proceedings of the 5th International Learning Analytics and Knowledge Conference. [pdf]
+Andres, J.M., Rodrigo, M.M.T., Sugay, J.O., Baker, R.S., Paquette, L., Shute, V.J., Ventura, M., Small, M. (in press) An Exploratory Analysis of Confusion Among Students Using Newton's Playground. To appear in Proceedings of the 22nd International Conference on Computers in Education.[pdf]
+San Pedro, M.O.Z., Ocumpaugh, J.L., Baker, R.S., Heffernan, N.T. (2014) Predicting STEM and Non-STEM College Major Enrollment from Middle School Interaction with Mathematics Educational Software. Proceedings of the 7th International Conference on Educational Data Mining, 276-279. [pdf]
+Paquette, L., de Carvalho, A.M.J.A., Baker, R.S., Ocumpaugh, J. (2014) Reengineering the Feature Distillation Process: A Case Study in the Detection of Gaming the System. Proceedings of the 7th International Conference on Educational Data Mining, 284-287. [pdf]
+Baker, R.S., Ocumpaugh, J. (2014) Cost-Effective, Actionable Engagement Detection at Scale. Proceedings of the 7th International Conference on Educational Data Mining, 345-346.[pdf]
+Hsiao, I-H., Chae, H.S., Malhotra, M., Baker, R.S.J.d., Natriello, G. (2014) Exploring Engaging Dialogues in Video Discussions. Proceedings of the 7th International Conference on Educational Data Mining, 363-364.[pdf]
+Rowe, E., Baker, R.S., Asbell-Clarke, J., Kasman, E., Hawkins, W.J. (2014) Building Automated Detectors of Gameplay Strategies to Measure Implicit Science Learning. Proceedings of the 7th International Conference on Educational Data Mining, 337-338.[pdf]
+Hawkins, W.J., Heffernan, N.T., Baker, R.S.J.d. (2014) Learning Bayesian Knowledge Tracing Parameters with a Knowledge Heuristic and Empirical Probabilities. Proceedings of the 12th International Conference on Intelligent Tutoring Systems, 150-155. [pdf]
+Stephenson, S., Baker, R., Corrigan, S. (2014) Towards Building an Automated Detector of Engaged and Disengaged Behavior in Game-Based Assessments. Poster presented at the 10th Annual Conference on Games+Learning+Society. [Won Attendee Choice Award for Most Original Research][pdf]
+Almeda, M.V., Scupelli, P., Baker, R.S., Weber, M., Fisher, A. (2014) Clustering of Design Decisions in Classroom Visual Displays. Proceedings of the 4th International Conference on Learning Analytics and Knowledge, 44-48. [pdf]
+Corbett, A., MacLaren, B., Wagner, A., Kauffman, L., Mitchell, A., Baker, R. (2013) Enhancing Robust Learning through Problem Solving in the Genetics Cognitive Tutor. Poster paper. Proceedings of the Annual Meeting of the Cognitive Science Society, 2094-2099.[pdf]
+Godwin, K.E., Almeda, M.V., Petroccia, M., Baker, R.S., Fisher, A.V. (2013) Classroom activities and off-task behavior in elementary school children. Poster paper. Proceedings of the Annual Meeting of the Cognitive Science Society, 2428-2433.[corrected pdf] [erratum]
+Hershkovitz, A., Baker, R.S.J.d., Moore, G.R., Rossi, L.M., van Velsen, M. (2013) The Interplay between Affect and Engagement in Classrooms Using AIED Software. Proceedings of the 16th International Conference on Artificial Intelligence and Education, 587-590.[pdf]
+Ocumpaugh, J., Baker, R.S.J.d., Gaudino, S., Labrum, M.J., Dezendorf, T. (2013) Field Observations of Engagement in Reasoning Mind. Proceedings of the 16th International Conference on Artificial Intelligence and Education, 624-627.[pdf]
+Baker, R.S.J.d., Ocumpaugh, J.L., Gowda, S.M., Gowda, S.M., Heffernan, N.T. (2013) Ensuring Reliability of Educational Data Mining Detectors for Diverse Populations of Learners. Presentation at CREA: Center for Culturally Responsive Evaluation and Assessment: Inaugural Conference. [pdf]
+Sao Pedro, M.A., Baker, R.S.J.d., Gobert, J.D. (2013) What Different Kinds of Stratification Can Reveal about the Generalizability of Data-Mined Skill Assessment Models. Proceedings of the 3rd International Conference on Learning Analytics and Knowledge, 190-194. [pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., McLaren, B., Jayme, A., Dy, T. (2012) Development of a Workbench to Address the Educational Data Mining Bottleneck. Proceedings of the 5th International Conference on Educational Data Mining, 152-155.[pdf]
+Soriano, J.C.A., Rodrigo, M.M.T., Baker, R.S.J.d., Ogan, A., Walker, E., Castro, M.J., Genato, R., Fontaine, S., Belmontez, R. (2012) A Cross-Cultural Comparison of Effective HelpSeeking Behavior among Students Using an ITS for Math. Poster paper. Proceedings of the International Conference on Intelligent Tutoring Systems, 636-637.[pdf]
+Roberge, D., Rojas, A., Baker, R.S.J.d. (2012) Does the Length of Time Off-Task Matter? Proceedings of the 2nd International Conference on Learning Analytics and Knowledge.[pdf]
+Siemens, G., Baker, R.S.J.d. (2012) Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge.[pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Wixon, M. (2011) Goal Orientation and Changes of Carelessness over Consecutive Trials in Science Inquiry. Poster paper. Proceedings of the 4th International Conference on Educational Data Mining, 315-316.[pdf]
+Walker, E., Ogan, A., Baker, R.S.J.d., de Carvalho, A., Laurentino, T., Rebolledo-Mendez, G., Castro, M.J. (2011) Observations of Collaboration in Cognitive Tutor Use in Latin America. Poster paper. Proceedings of the 15th International Conference on Artificial Intelligence in Education, 575-577.[pdf]
+Stamper, J., Koedinger, K., Baker, R.S.J.d., Skogsholm, A., Leber, B., Demi, S., Yu, S., Spencer, D. (2011) Managing the Educational Dataset Lifecycle with Datashop. Poster paper. Proceedings of the 15th International Conference on Artificial Intelligence in Education, 557-559.[pdf]
+Hershkovitz, A., Wixon, M., Baker, R.S.J.d., Gobert, J., Sao Pedro, M. (2011) Carelessness and Goal Orientation in a Science Microworld. Poster paper. Proceedings of the 15th International Conference on Artificial Intelligence in Education, 462-465.[pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Nabos, J.Q. (2010) The Relationships Between Sequences of Affective States and Learner Achievements. Proceedings of the 18th International Conference on Computers in Education.[pdf]
+Rodrigo, M.M.T., Baker, R.S.J.d., Agapito, J., Nabos, J., Repalam, M.C., Reyes, S.S. (2010) Comparing Disengaged Behavior within a Cognitive Tutor in the USA and Philippines. Proceedings of the 10th Annual Conference on Intelligent Tutoring Systems, 263-265. [pdf]
+Giguere, S., Beck, J., Baker, R. (2010) Modeling gaming using classic student modeling approaches. Proceedings of the 10th Annual Conference on Intelligent Tutoring Systems, 321-323.
+Baker, R.S., Corbett, A., Koedinger, K., Roll, I. (2005) Detecting When Students Game The System, Across Tutor Subjects and Classroom Cohorts. Proceedings of User Modeling 2005, 220-224. [pdf]
+Baker, R.S., Wagner, A.Z., Corbett, A.T., Koedinger, K.R. (2004) The Social Role of Technical Personnel in the Deployment of Intelligent Tutoring Systems. Proceedings of International Conference on Intelligent Tutoring Systems. (download technical report version)
+Roll, I., Baker, R.S., Aleven, V., Koedinger, K.R. (2004) A Metacognitive ACT-R model of Students' Learning Strategies in Intelligent Tutoring Systems. Proceedings of International Conference on Intelligent Tutoring Systems, 854-856.
+Roll, I., Baker, R.S., Aleven, V., Koedinger, K.R. (2004) What goals do students have when choosing the actions they perform? Proceedings of International Conference on Cognitive Modeling. [pdf].
+Dabbish L.A., Baker R.S. (2003) Administrative Assistants as Interruption Mediators. ACM CHI: Computer-Human Interaction, 2003, 1020-1021.
+WHITE PAPERS/OFFICIAL REPORTS
+Ocumpaugh, J., Baker, R.S., Rodrigo, M.M.T. (2015) Baker Rodrigo Ocumpaugh Monitoring Protocol (BROMP) 2.0 Technical and Training Manual.. Technical Report. New York, NY: Teachers College, Columbia University. Manila, Philippines: Ateneo Laboratory for the Learning Sciences. [pdf]
+Ocumpaugh, J., Baker, R.S.J.d., Rodrigo, M.M.T. (2012) Baker-Rodrigo Observation Method Protocol (BROMP) 1.0. Training Manual version 1.0. Technical Report. New York, NY: EdLab. Manila, Philippines: Ateneo Laboratory for the Learning Sciences. [pdf]
+Siemens, G., Gasevic, D., Haythornthwaite, C., Dawson, S., Shum, S.B., Ferguson, R., Duval, E., Verbert, K., Baker, R.S.J.d. (2011) Open Learning Analytics: an integrated & modularized platform: Proposal to design, implement and evaluate an open platform to integrate heterogeneous learning analytics techniques. Athabasca, Alberta, Canada: Society for Learning Analytics Research. [pdf]
+Woolf, B.P., Shute, V., VanLehn, K., Burleson, W., King, J.L., Suthers, D., Bredeweg, B., Luckin, R., Baker, R.S.J.d., Tonkin, E. (2010) A Roadmap for Education Technology. Washington, DC: Computing Community Consortium.[pdf]
+Woolf, B.P., Baker, R., Gianchandani, E.P. (2010) From Data to Knowledge to Action: Enabling Personalized Education. Washington, DC: Computing Community Consortium. [doc]
+THESES
+Baker, R.S. (2005) Designing Intelligent Tutors That Adapt to When Students Game the System. Doctoral Dissertation. CMU Technical Report CMU-HCII-05-104. [pdf]
+Baker R.S. (2000) PILOT: An Interactive Tool For Learning and Grading. Senior Honors Thesis, Brown University. June, 2000. [pdf] Advisors: Roberto Tamassia , Thomas Dean.
+OTHER DOCUMENTS
+Sao Pedro, M.A., Gobert, J.D., Baker, R. (in press) The Impacts of Automatic Scaffolding on Students' Acquisition of Data Collection Inquiry Skills. Roundtable presentation at American Educational Research Association 2014.
+Medvedeva, O., de Carvalho, A.M.J.B., Baker, R.S.J.d., Crowley, R.S. (2013) A classifier to detect student 'gaming' of a medical education system. Technical Report. New York, NY: Educational Data Mining Laboratory. [pdf]
+Baker, R.S.J.d. (2012). Guessing and Learning. In N.M. Seel (Ed.), Encyclopedia of the Sciences of Learning (pp. 1397-1398). Heidelberg, Germany: Springer-Verlag.
+Baker, R.S.J.d. (2012). Guessing Model. In N.M. Seel (Ed.), Encyclopedia of the Sciences of Learning (pp. 1398-1399). Heidelberg, Germany: Springer-Verlag.
+Castro, M.J., Cárdenas, E.S., Ogan, A., Baker, R.S.J.d. (2011) Tutor Cognitivo y el incremento de aprendizaje en matemática. (Cognitive Tutors and Learning Gains in Mathematics). CIAEM 2011: XIII Conferencia Interamericana de Educación Matematica. [pdf]
+Baker, R.S., Wagner, A.Z., Corbett, A.T., Koedinger, K.R. (2004) The Social Role of Technical Personnel in the Deployment of Intelligent Tutoring Systems. CMU Technical Report CMU-HCII-04-100, July 2004. [pdf]
+Baker, R.S., Corbett, A.T., Koedinger, K.R. (2003) Statistical Techniques For Comparing ACT-R Models of Cognitive Performance. Proceedings of the 10th Annual ACT-R Workshop, 129-134. [pdf]
+Baker R.S., Corbett A.T., Koedinger K.R. (2002) Distinct Errors Arising From a Single Misconception. Published as abstract, Proceedings of the Cognitive Science Society Conference, 990. [pdf]
+Baker R., Parberry I. (1996) Increasing Frame Rate In An Interactive Sprite Engine. Texas Academy of Science Conference. March, 1996. Published as abstract.
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/FES2013/index.htmltext/htmlCourse Webpage
+ Feature Engineering Studio 
+ Fall 2013 
+ Professor Ryan S.J.d. Baker
+Syllabus and Course Schedule
+Course Lecture Slides and Materials
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/index.htmltext/htmlCourse Webpage
+ Learning Analytics: Process & Theory 
+ Spring 2014 
+ Professor Ryan Baker
+Syllabus and Course Schedule
+Course Lecture Slides and Materials
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/EDM2014/index.htmltext/htmlCourse Webpage
+ HUDK 4050: Core Methods in Educational Data Mining 
+ Fall 2014 
+ Professor Ryan Baker
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/EDM2013/index.htmltext/htmlCourse Webpage
+ HUDK 5199: Special Topics in Educational Data Mining 
+ Spring 2013 
+ Professor Ryan S.J.d. Baker
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/cv.htmltext/htmlRyan Shaun Joazeiro de Baker
+Intelligent Tutoring Systems	Educational Data Mining	Human-Computer Interaction	Gaming the System
+Ryan Shaun Joazeiro de Baker	         rsbaker@wpi.edu
+ Home 
+	
+ Publications 
+	
+ Teaching 
+	
+ CV 
+	
+ Contact 
+	
+ Miscellaneous 
+	
+View my CV in PDF format (English language)
+Meu curriculo, em PDF (Versão em Português, velho)
+Quantitative Field Observation	Motivational Modeling	Interaction Design	Psychometric Machine-Learned Models*********************************************http://www.columbia.edu/~rsb2162/FES2015text/htmlCourse Webpage
+ HUDK5053: Feature Engineering Studio 
+ Spring 2015 
+ Professor Ryan S. Baker
+Syllabus and Course Schedule
+Course Lecture Slides and Materials
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/Stats2015text/htmlCourse Webpage
+ HUDM4122: Probability and Statistical Inference 
+ Spring 2015 
+ Professor Ryan S. Baker
+Syllabus and Course Schedule
+Course Lecture Slides and Materials
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/MMA2011text/htmlCourse Webpage
+ PSY504 Meta-Cognition, Motivation, and Affect 
+ Spring 2011 
+ Professor Ryan S.J.d. Baker
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/AMALSS2012text/htmlCourse Webpage
+ PSY505 Advanced Methods and Analysis for the Learning and Social Sciences 
+ Spring 2012 
+ Professor Ryan S.J.d. Baker
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/CogPsy2011Atext/htmlCourse Webpage
+ PSY1401 Cognitive Psychology 
+ 2011, A term 
+ Professor Ryan S.J.d. Baker 
+ Teaching Assistant Juelaila J. Raziuddin
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+FAQ
+Sample Test Item
+*********************************************http://www.columbia.edu/~rsb2162/LSRM2010text/htmlCourse Webpage
+ Research Methods for the Learning Sciences 
+ 2010, C term 
+ Professor Ryan S.J.d. Baker
+Course Schedule (and lecture slides)
+Syllabus
+Assignments
+*********************************************http://www.columbia.edu/~rsb2162/correction-edm2012.htmltext/htmlAUC values incorrect in this paper
+This paper has values of A' computed using the AUC (area under the ROC curve) version of A' rather than the Wilcoxon version. All known implementations of AUC as of this writing are inaccurate for some special cases. A particularly common situation where errors occur is when multiple data points have the exact same confidence, which is common for many data mining algorithms, particularly decision trees and decision rules. This specific error is confirmed as of this writing for RapidMiner and R. SPSS has other errors as well. These errors inflate values of A'. This paper therefore has inaccurate, inflated values of A'.
+More accurate A' estimation is available, using the O(N^2) Wilcoxon implementation, is available at http://www.columbia.edu/~rsb2162/computeAPrime.zip
+This code is confirmed to be acceptably fast for data sets up to hundreds of millions of data points.*********************************************http://www.columbia.edu/~rsb2162/BCA2008erratum.htmltext/htmlErratum for 
+ Baker, R.S.J.d., Corbett, A.T., Aleven, V. (2008) More Accurate Student Modeling Through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing. Proceedings of the 9th International Conference on Intelligent Tutoring Systems, 406-415.
+In the published version of this article, three formulas had the same minor typo. They are now corrected.
+Our apologies for the error.
+A corrected version of this article is available online at http://www.wpi.edu/~rsbaker/BCA2008W.pdf*********************************************http://www.columbia.edu/~rsb2162/BCA2008EDMerratum.htmltext/htmlErratum for 
+ Baker, R.S.J.d., Corbett, A.T., Aleven, V. (2008) Improving Contextual Models of Guessing and Slipping with a Truncated Training Set.Proceedings of the 1st International Conference on Educational Data Mining, 67-76.
+In the published version of this article, three formulas had the same minor typo. They are now corrected.
+Our apologies for the error.
+A corrected version of this article is available online at http://www.wpi.edu/~rsbaker/EDMGuessSlip2008Q.pdf*********************************************http://www.columbia.edu/~rsb2162/BDRACK2009erratum.htmltext/htmlErratum for 
+ Baker, R.S.J.d., de Carvalho, A.M.J.A., Raspat, J., Aleven, V., Corbett, A.T., Koedinger, K.R. (2009) Educational Software Features that Encourage and Discourage "Gaming the System". Proceedings of the 14th International Conference on Artificial Intelligence in Education, 475-482.
+In the published version of this article, we reported that lessons with no problem scenarios (and thus no interest-increasing text) were gamed significantly more than lessons with problem scenarios.
+This was incorrect, due to an analysis error.
+The correct interpretation of the data is: Lessons with no problem scenarios (and thus no interest-increasing text) were gamed significantly less than would be predicted solely from their degree of text. In other words, having less text (if there was any text at all) was associated with significantly more gaming, but problems with no text at all were less frequently gamed than would be predicted solely from their degree of text.
+Our apologies for the error.
+A corrected version of this article is available online at http://www.wpi.edu/~rsbaker/BDRACK-v37.pdf*********************************************http://www.columbia.edu/~rsb2162/FES2013/assignments.htmltext/htmlAssignments
+ Feature Engineering Studio 
+ Fall 2013 
+ Professor Ryan S.J.d. Baker
+1. Problem Proposal
+2. Data Familiarization ("Mucking Around")
+3. Feature Engineering 1 ("Bring Me a Rock")
+4. Feature Engineering 2 ("Bring Me Another Rock")
+5. Iterative Feature Refinement ("Keep Running!")
+6. Feature Adaptation ("This One's For Nikolai Ivanovich Lobachevsky")
+8. Posters ("Charrette")
+9. Construct Validity ("One Who Visions Must Be Steeped in Data")
+10. Brainstorming
+*********************************************http://www.columbia.edu/~rsb2162/FES2013/materials.htmltext/htmlCourse Lecture Slides and Materials
+ Feature Engineering Studio 
+ Fall 2013 
+ Professor Ryan S.J.d. Baker
+Course 1 slides [pptx]
+ Special Session 1A slides [pptx]
+ Course 2 slides [pptx]
+ Course 2 data [xlsx]
+ Course 3 slides [pptx]
+ Special Session 3A slides [pptx] 
+ Special Session 3A data [csv]
+ Special Session 3A rapidminer file [xml]
+ Course 4 slides [pptx]
+ Special Session 4A slides [pptx] 
+ Course 5 slides [pptx]
+ Course 5 data [xlsx]
+ Course 6 slides [pptx]
+ Course 7 slides [pptx]
+ Special Session 7A slides [pptx] 
+ Course 10 slides [pptx] 
+ Course 11 slides [pptx] 
+ Course 12 slides [pptx] 
+ Course 13 slides [pptx] 
+*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/materials.htmltext/htmlCourse Lecture Slides and Materials
+ Learning Analytics: Process & Theory 
+ Spring 2014 
+ Professor Ryan Baker
+Lecture 1 [pptx]
+ Lecture 2 [pptx]
+ Class 3 [html]
+ Class 4 [html]
+ Class 5 [html]
+ Class 6 [html]
+ Class 7 [html]
+ Class 8 [html]
+ Midterm [docx]
+ Class 9 [pptx]
+ Class 10 [html]
+ Class 11 [pptx]
+ Class 12 [html]
+ Class 13 [html]
+ Video for Class 14 [YouTube]
+ Class 14 [html]
+ Class 15 [html]
+ Class 16 [pptx]
+ Final Exam [docx]
+*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/assignments.htmltext/htmlAssignments
+ Learning Analytics: Process & Theory 
+ Spring 2014 
+ Professor Ryan Baker
+Theoretical Paper and Prospectus [docx]
+*********************************************http://www.columbia.edu/~rsb2162/EDM2013/assignments.htmltext/htmlAssignments 
+ HUDK5199: Special Topics in Educational Data Mining 
+ Spring 2013 
+ Professor Ryan S.J.d. Baker
+Assignment 1: PFA and BKT[pdf] 
+ Data Set: [csv]
+Assignment 2: Knowledge Structure[pdf] 
+ Data Set: [csv]
+Assignment 3: Behavior Detection[pdf] 
+ Data Set: [csv]
+Assignment 4: Feature Engineering[pdf] 
+ Data Set: [csv]
+Assignment 5: Regression[pdf] 
+ Data Set: [csv] 
+ Feature Descriptions: [pdf]
+Assignment 6: Social Network[pdf] 
+ Data Set: [xlsx]
+Assignment 7: Clustering[pdf]
+Assignment 8: Sequential Pattern Mining[pdf] 
+ Data Set: [xlsx]
+Assignment 9: Visualization[pdf]
+Assignment 10[pdf]*********************************************http://www.columbia.edu/~rsb2162/EDM2014/assignments.htmltext/htmlAssignments 
+ HUDK4050: Core Methods in Educational Data Mining 
+ Fall 2014 
+ Professor Ryan Baker
+Basic Assignment 1: Classifier[docx] 
+ Data Set: [csv]
+Creative Assignment 1: Behavior Detection[pdf] 
+ Data Set: [csv]
+Basic Assignment 2: Diagnostic Metrics[pdf] 
+ Data Sets: [csv, 1] [csv, 2]
+Creative Assignment 2: Feature Engineering[pdf] 
+ Data Sets: [csv, 1] [csv, 2]
+Basic Assignment 3: Bayesian Knowledge Tracing[pdf] 
+ Data Sets: [zipped csv]
+Basic Assignment 4: Performance Factors Analysis[pdf] 
+ Data Sets: [xlsx]
+Creative Assignment 3: Knowledge Structure[pdf] 
+ Data Sets: [csv]
+Basic Assignment 5: Social Network Analysis[pdf] 
+ Data Sets: [txt]
+Basic Assignment 6: Correlation Mining[pdf] 
+ Data Sets: [csv, 1] [csv, 2]
+Basic Assignment 7: Clustering[pdf] 
+ Data Set: [csv]
+Basic Assignment 8: Sequential Pattern Mining I[pdf] 
+ Data Set: [csv]
+Creative Assignment 4: Sequential Pattern Mining II [pdf] 
+Data Set: [zipped txt]
+Creative Assignment 5: Visualization[pdf]
+Creative Assignment 6: Final Presentation[pdf]*********************************************http://www.columbia.edu/~rsb2162/assignments.htmltext/htmlAssignments 
+ HUDK5199: Special Topics in Educational Data Mining 
+ Spring 2013 
+ Professor Ryan S.J.d. Baker
+Assignment 1: PFA and BKT[pdf] 
+ Data Set: [csv]
+Assignment 2: Knowledge Structure[pdf] 
+ Data Set: [csv]*********************************************http://www.columbia.edu/~rsb2162/EDM2014/course-schedule-2014.htmltext/htmlCourse Schedule 
+ HUDK4050: Core Methods in Educational Data Mining 
+ Fall 2014 
+ Professor Ryan Baker
+Wednesday, September 3
+NO CLASS TODAY; FIRST CLASS IS FOLLOWING MONDAY
+Monday, September 8: Introduction
+1pm-2:40pm
+
+ Readings
+Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17. [pdf]
+Baker, R., Siemens, G. (in press) Educational data mining and learning analytics. To appear in Sawyer, K. (Ed.) Cambridge Handbook of the Learning Sciences: 2nd Edition. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Wednesday, September 10: CLASS CANCELED DUE TO INSTRUCTOR ILLNESS
+Monday, September 15: Regression in Prediction
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 1, V2.
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Sections 4.6, 6.5.
+Class Data Set: [csv] 
+ Class Code: [RapidMiner xml 1] [RapidMiner xml 2]
+
+ Slides: [pptx]
+
+ Assignments Due: NONE
+Wednesday, September 17: Classification Algorithms
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 1, V3, V4, V5.
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Ch. 4.6, 6.1, 6.2, 6.4
+Slides: [pptx]
+
+ Assignments Due: Basic: Classifier
+Monday, September 22: Behavior Detection
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch.1, V6. Ch. 3, V1, V2.
+Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.[pdf]
+Sao Pedro, M.A., Baker, R.S.J.d., Gobert, J., Montalvo, O. Nakama, A. (2013) Leveraging Machine-Learned Detectors of Systematic Inquiry Behavior to Estimate and Predict Transfer of Inquiry Skill. User Modeling and User-Adapted Interaction, 23 (1), 1-39. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: Creative: Behavior Detection
+Wednesday, September 24: Diagnostic Metrics
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 2, V1, V2, V3, V4.
+Fogarty, J., Baker, R., Hudson, S. (2005) Case Studies in the use of ROC Curve Analysis for Sensor-Based Estimates in Human Computer Interaction. Proceedings of Graphics Interface (GI 2005), 129-136. [pdf]
+Russell, S., Norvig, P. (2010) Artificial Intelligence: A Modern Approach. Ch. 20: Learning Probabilistic Models.
+Slides: [pptx] 
+
+ Assignments Due: Basic: Metrics
+Monday, September 29: No Class
+Wednesday, October 1: No Class
+Monday, October 6: Feature Engineering and Distillation-- What
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 3, V3.
+Sao Pedro, M., Baker, R.S.J.d., Gobert, J. (2012) Improving Construct Validity Yields Better Models of Systematic Inquiry, Even with Less Information. Proceedings of the 20th International Conference on User Modeling, Adaptation and Personalization (UMAP 2012),249-260. [pdf]
+Slides: [pptx] 
+ Assignments Due: NONE
+Wednesday, October 8: Feature Engineering and Distillation - How
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 3, V4, V5.
+vlookup Tutorial 1
+vlookup Tutorial 2
+Pivot Table Tutorial 1
+Pivot Table Tutorial 2
+
+ Slides: [pptx]
+ Assignments Due: Creative: Feature Engineering
+Monday, October 13: Advanced Detector Evaluation and Validation
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 2, V5, V6.
+Rosenthal, R., Rosnow, R.L. (1991) Essentials of Behavioral Research: Methods and Data Analysis, 2nd edition. Ch. 22: Meta-Analysis.
+Rupp, A.A., Gushta, M., Mislevy, R.J., Shaffer, D.W. (2010) Evidence-Centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. The Journal of Technology, Learning, and Assessment, 8 (4), 4-47.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Wednesday, October 15: Bayesian Knowledge Tracing
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 4, V1, V2.
+Corbett, A.T., Anderson, J.R. (1995) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4, 253-278. [pdf]
+
+ Class Data Set: [xlsx]
+ Slides: [pptx]
+ Assignments Due: Basic: BKT
+Monday, October 20: No Class
+Wednesday, October 22: No Class
+Monday, October 27: Performance Factors Analysis
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 4, V3.
+Pavlik, P.I., Cen, H., Koedinger, K.R. (2009) Performance Factors Analysis -- A New Alternative to Knowledge Tracing. Proceedings of AIED2009.[pdf]
+Pavlik, P.I., Cen, H., Koedinger, K.R. (2009) Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models. Proceedings of the 2nd International Conference on Educational Data Mining.[pdf]
+Slides: [pptx]
+
+ Assignments Due: Basic: PFA
+Wednesday, October 29: Advanced BKT
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 4, V5.
+Beck, J.E., Chang, K-m., Mostow, J., Corbett, A. (2008) Does Help Help? Introducing the Bayesian Evaluation and Assessment Methodology. Proceedings of the International Conference on Intelligent Tutoring Systems. [pdf]
+San Pedro, M.O.C., Baker, R., Rodrigo, M.M. (2011) Detecting Carelessness through Contextual Estimation of Slip Probabilities among Students Using an Intelligent Tutor for Mathematics. Proceedings of 15th International Conference on Artificial Intelligence in Education, 304-311.[pdf]
+Slides: [pptx]
+ Assignments Due: NONE
+Monday, November 3: Knowledge Structure Discovery
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 7, V6, V7.
+Desmarais, M.C., Meshkinfam, P., Gagnon, M. (2006) Learned Student Models with Item to Item Knowledge Structures. User Modeling and User-Adapted Interaction, 16, 5, 403-434.[pdf]
+Barnes, T. (2005) The Q-matrix Method: Mining Student Response Data for Knowledge. Proceedings of the Workshop on Educational Data Mining at the Annual Meeting of the American Association for Artificial Intelligence.[pdf]
+Cen, H., Koedinger, K., Junker, B. (2006) Learning Factors Analysis - A General Method for Cognitive Model Evaluation and Improvement. Proceedings of the International Conference on Intelligent Tutoring Systems, 164-175.[pdf]
+Koedinger, K.R., McLaughlin, E.A., Stamper, J.C. (2012) Automated Student Modeling Improvement. Proceedings of the 5th International Conference on Educational Data Mining, 17-24.[pdf]
+Class Data Set:[xlsx]
+ Slides: [pptx]
+
+ Assignments Due: Creative: Knowledge Structure
+Wednesday, November 5: Network Analysis
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 5, V5.
+Haythornthwaite, C. (2001) Exploring Multiplexity: Social Network Structures in a Computer-Supported Distance Learning Class. The Information Society: An International Journal, 17 (3), 211-226
+Dawson, S. (2008) A study of the relationship between student social networks and sense of community. Educational Technology & Society, 11(3), 224-238.[pdf]
+
+ Slides: [pptx]
+
+ Assignments Due: Basic: SNA
+Monday, November 10: No Class
+Wednesday, November 12: Correlation Mining and Causal Mining
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 5, V1, V2.
+Arroyo, I., Woolf, B. (2005) Inferring learning and attitudes from a Bayesian Network of log file data. Proceedings of the 12th International Conference on Artificial Intelligence in Education, 33-40.[pdf]
+Rai, D., Beck, J.E. (2011) Exploring user data from a game-like math tutor: a case study in causal modeling. Proceedings of the 4th International Conference on Educational Data Mining, 307-313.[pdf]
+Rau, M. A., & Scheines, R. (2012) Searching for Variables and Models to Investigate Mediators of Learning from Multiple Representations. Proceedings of the 5th International Conference on Educational Data Mining, 110-117. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: Basic: Correlation Mining
+Monday, November 17: No Class
+Wednesday, November 19: No Class
+Monday, November 24: Discovery with Models
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 8, V1, V2.
+Pardos, Z.A., Baker, R.S., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2014) Affective states and state tests: Investigating how affect and engagement during the school year predict end of year learning outcomes. Journal of Learning Analytics, 1 (1), 107-128. [pdf]
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Wixon, M., Sao Pedro, M. (2013) Discovery with Models: A Case Study on Carelessness in Computer-based Science Inquiry. American Behavioral Scientist, 57 (10), 1479-1498.[pdf]
+
+ Slides: To be posted
+ Assignments Due: NONE
+Wednesday, November 26: No Class
+Monday, December 1: Clustering and Factor Analysis
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 7, V1, V2, V3, V4, V5.
+Amershi, S. Conati, C. (2009) Combining Unsupervised and Supervised Classification to Build User Models for Exploratory Learning Environments. Journal of Educational Data Mining, 1 (1), 18-71.[pdf]
+Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: Basic: Clustering
+Wednesday, December 3: Association Rule Mining
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 5, V3.
+Merceron, A., Yacef, K. (2008) Interestingness Measures for Association Rules in Educational Data. Proceedings of the 1st International Conference on Educational Data Mining,57-66. [pdf]
+Bazaldua, D.A.L., Baker, R.S., San Pedro, M.O.Z. (in press) Combining Expert and Metric-Based Assessments of Association Rule Interestingness. To appear in Proceedings of the 7th International Conference on Educational Data Mining.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: None
+Monday, December 8: Sequential Pattern Mining
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 5, V4.
+Srikant, R., Agrawal, R. (1996) Mining Sequential Patterns: Generalizations and Performance Improvements. Research Report: IBM Research Division. San Jose, CA: IBM. [pdf]
+Perera, D., Kay, J., Koprinska, I., Yacef, K., Zaiane, O. (2009) Clustering and Sequential Pattern Mining of Online Collaborative Learning Data. IEEE Transactions on Knowledge and Data Engineering, 21, 759-772. [pdf]
+Shanabrook, D.H., Cooper, D.G., Woolf, B.P., Arroyo, I. (2010)Identifying High-Level Student Behavior Using Sequence-based Motif Discovery. Proceedings of the 3rd International Conference on Educational Data Mining, 191-200.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: Basic: Sequential Pattern Mining #1
+Wednesday, December 10: Text Mining
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 8, V3.
+Rose, C.P. (2014) Online Text Mining resources TBD.
+Graesser, A. C., D'Mello, S. K., Craig, S. D., Witherspoon A., Sullins J., McDaniel B., Gholson, B. (2008) The Relationship between Affective States and Dialog Patterns during Interactions with AutoTutor. Journal of Interactive Learning Research, 19(2), 293-312. [pdf]
+
+ Slides: [pptx]
+
+ Assignments Due: Creative: Sequential Pattern Mining #2
+Monday, December 15: Visualization of Educational Data
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 6, V1, V2, V3, V4, V5.
+Kay, J., Maisonneuve, N., Yacef, K., Reimann, P. (2006) The big five and visualisations of team work activity. Intelligent Tutoring Systems: Proceedings 8th International Conference, ITS 2006, 197-206.[pdf]
+Ritter, S., Harris, T., Nixon, T., Dickinson, D., Murray, R.C., Towle, B. (2009) Reducing the Knowledge Tracing Space. Proceedings of the 2nd International Conference on Educational Data Mining, 151-160.[pdf]
+Martinez, R., Kay, J., Yacef, K. (2011) Visualisations for longitudinal participation, contribution and progress of a collaborative task at the tabletop. International Conference on Computer Supported Collaborative Learning, CSCL 2011, 25-32.[pdf]
+
+ Assignments Due: Creative: Visualization
+Wednesday, December 17: The World Is Changing
+1pm-2:40pm
+
+ Readings
+Baker, R.S. (2014) Big Data and Education. Ch. 8, V5.
+
+ Assignments Due: Creative: Final Presentation [REQUIRED]*********************************************http://www.columbia.edu/~rsb2162/EDM2013/course-schedule-2013.htmltext/htmlCourse Schedule 
+ HUDK5199: Special Topics in Educational Data Mining 
+ Spring 2013 
+ Professor Ryan S.J.d. Baker
+Wednesday, January 23: Introduction
+3pm-4:40pm
+
+ Readings
+Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17. [pdf]
+
+ Slides: [pptx] 
+ Assignments Due: NONE
+Monday, January 28: Bayesian Knowledge Tracing
+3pm-4:40pm
+
+ Readings
+Corbett, A.T., Anderson, J.R. (1995) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4, 253-278. [pdf]
+Baker, R.S.J.d., Corbett, A.T., Aleven, V. (2008) More Accurate Student Modeling Through Contextual Estimation of Slip and Guess Probabilities in Bayesian Knowledge Tracing. Proceedings of the 9th International Conference on Intelligent Tutoring Systems, 406-415.[pdf]
+
+ Class Data Set: [xlsx]
+ Slides: [pptx]
+ Assignments Due: NONE
+Wednesday, January 30: Educational Databases
+3pm-4:40pm
+ Special Guest Lecturer: John Stamper, Carnegie Mellon University
+ Readings
+Koedinger, K.R., Baker, R.S.J.d., Cunningham, K., Skogsholm, A., Leber, B., Stamper, J. (2010) A Data Repository for the EDM community: The PSLC DataShop. Handbook of Educational Data Mining. Boca Raton, FL: CRC Press, pp. 43-56.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Monday, February 4: Performance Factors Analysis
+3pm-4:40pm
+
+ Readings
+Pavlik, P.I., Cen, H., Koedinger, K.R. (2009) Performance Factors Analysis -- A New Alternative to Knowledge Tracing. Proceedings of AIED2009.[pdf]
+Pavlik, P.I., Cen, H., Koedinger, K.R. (2009) Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models. Proceedings of the 2nd International Conference on Educational Data Mining.[pdf]
+Class Data Set: [xlsx]
+ Example of Simple PFA: [xlsx]
+ Slides: [pptx]
+
+ Assignments Due: PFA and BKT
+Wednesday, February 6: Diagnostic Metrics
+3pm-4:40pm
+
+ Readings
+Fogarty, J., Baker, R., Hudson, S. (2005) Case Studies in the use of ROC Curve Analysis for Sensor-Based Estimates in Human Computer Interaction. Proceedings of Graphics Interface (GI 2005), 129-136. [pdf]
+Russell, S., Norvig, P. (2010) Artificial Intelligence: A Modern Approach. Ch. 20: Learning Probabilistic Models.
+Slides: [pptx]
+
+ Assignments Due: NONE
+Monday, February 11: Advanced BKT
+3pm-4:40pm
+ Special Guest Lecturer: Maria "Sweet" San Pedro
+ Readings
+Beck, J.E., Chang, K-m., Mostow, J., Corbett, A. (2008) Does Help Help? Introducing the Bayesian Evaluation and Assessment Methodology. Proceedings of the International Conference on Intelligent Tutoring Systems. [pdf]
+Pardos, Z.A., Heffernan, N.T. (2010) Modeling individualization in a bayesian networks implementation of knowledge tracing. Proceedings of User Modeling and Adaptive Personalization.[pdf]
+Slides: [pptx]
+
+ Assignments Due: NONE
+Wednesday, February 13: Knowledge Structure Discovery
+3pm-4:40pm
+
+ Readings
+Desmarais, M.C., Meshkinfam, P., Gagnon, M. (2006) Learned Student Models with Item to Item Knowledge Structures. User Modeling and User-Adapted Interaction, 16, 5, 403-434.[pdf]
+Barnes, T. (2005) The Q-matrix Method: Mining Student Response Data for Knowledge. Proceedings of the Workshop on Educational Data Mining at the Annual Meeting of the American Association for Artificial Intelligence.[pdf]
+Cen, H., Koedinger, K., Junker, B. (2006) Learning Factors Analysis - A General Method for Cognitive Model Evaluation and Improvement. Proceedings of the International Conference on Intelligent Tutoring Systems, 164-175.[pdf]
+Koedinger, K.R., McLaughlin, E.A., Stamper, J.C. (2012) Automated Student Modeling Improvement. Proceedings of the 5th International Conference on Educational Data Mining, 17-24.[pdf]
+Class Data Set:[xlsx]
+ Slides: [pptx]
+
+ Assignments Due: Knowledge Structure
+Monday, February 18: Classification Algorithms
+3pm-4:40pm
+
+ Readings
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Ch. 4.6, 6.1, 6.2, 6.4
+Class Code: [RapidMiner xml]
+ Slides: [pptx]
+
+ Assignments Due: NONE
+Wednesday, February 20: Behavior Detection
+3pm-4:40pm
+
+ Readings
+Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.[pdf]
+Sao Pedro, M.A., Baker, R.S.J.d., Gobert, J., Montalvo, O. Nakama, A. (2013) Leveraging Machine-Learned Detectors of Systematic Inquiry Behavior to Estimate and Predict Transfer of Inquiry Skill. User Modeling and User-Adapted Interaction, 23 (1), 1-39. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: Behavior Detection
+Monday, February 25: Feature Engineering and Distillation-- What
+3pm-4:40pm
+
+ Readings
+Sao Pedro, M., Baker, R.S.J.d., Gobert, J. (2012) Improving Construct Validity Yields Better Models of Systematic Inquiry, Even with Less Information. Proceedings of the 20th International Conference on User Modeling, Adaptation and Personalization (UMAP 2012),249-260. [pdf]
+Slides: [pptx]
+
+ Assignments Due: NONE
+Wednesday, February 27:Feature Engineering and Distillation - How
+3pm-4:40pm
+
+ Readings
+Google Refine User Guide (skim through this)
+Pivot Table Tutorial 1
+Pivot Table Tutorial 2
+vlookup Tutorial
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Ch. 7.
+
+ Slides: [pptx]
+ Assignments Due: Feature Engineering
+Monday, March 4: Reinforcement Learning and POMDPs
+3pm-4:40pm
+
+ Readings
+Chi, M., VanLehn, K, Litman, D. & Jordan, P. (2011). Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical tactics. User Modeling and User Adapted Instruction, 21 (1-2), 137-180.[pdf]
+Folsom-Kovarik, J., Sukthankar, G., Schatz, S. (2012) Integrating Learner Help Requests Using a POMDP in an Adaptive Training System. Proceedings of the 24th Innovative Applications of Artificial Intelligence Conference, 2287-2292. [pdf]
+
+ Slides: [pptx]
+
+ Assignments Due: None
+Wednesday, March 6: Advanced Detector Evaluation and Validation
+3pm-4:40pm
+
+ Readings
+Rosenthal, R., Rosnow, R.L. (1991) Essentials of Behavioral Research: Methods and Data Analysis, 2nd edition. Ch. 22: Meta-Analysis.
+Rupp, A.A., Gushta, M., Mislevy, R.J., Shaffer, D.W. (2010) Evidence-Centered Design of Epistemic Games: Measurement Principles for Complex Learning Environments. The Journal of Technology, Learning, and Assessment, 8 (4), 4-47.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Monday, March 11: Regression in Prediction
+3pm-4:40pm
+
+ Readings
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Sections 4.6, 6.5.
+
+ Slides: [pptx]
+
+ Assignments Due: Regression
+Wednesday, March 13: Imputation in Prediction
+3pm-4:40pm
+
+ Readings
+Schafer, J.L., Graham, J.W. (2002) Missing Data: Our View of the State of the Art. Psychological Methods, 7 (2), 147-177
+
+ Slides: [pptx]
+
+
+ Assignments Due: NONE
+Monday, March 18 SPRING BREAK
+Wednesday, March 20 SPRING BREAK
+Monday, March 25: Social Network Analysis
+3pm-4:40pm
+
+ Readings
+Haythornthwaite, C. (2001) Exploring Multiplexity: Social Network Structures in a Computer-Supported Distance Learning Class. The Information Society: An International Journal, 17 (3), 211-226
+Dawson, S. (2008) A study of the relationship between student social networks and sense of community. Educational Technology & Society, 11(3), 224-238.[pdf]
+
+ Slides: [pptx]
+
+
+ Assignments Due: Social Network
+Wednesday, March 27: Correlation Mining and Causal Mining
+3pm-4:40pm
+
+ Readings
+Arroyo, I., Woolf, B. (2005) Inferring learning and attitudes from a Bayesian Network of log file data. Proceedings of the 12th International Conference on Artificial Intelligence in Education, 33-40.[pdf]
+Rai, D., Beck, J.E. (2011) Exploring user data from a game-like math tutor: a case study in causal modeling. Proceedings of the 4th International Conference on Educational Data Mining, 307-313.[pdf]
+Rau, M. A., & Scheines, R. (2012) Searching for Variables and Models to Investigate Mediators of Learning from Multiple Representations. Proceedings of the 5th International Conference on Educational Data Mining, 110-117. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Monday, April 1: Discovery with Models
+3pm-4:40pm
+
+ Readings
+Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (in press) Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. To appear in Proceedings of the 3rd International Conference on Learning Analytics and Knowledge.
+Hershkovitz, A., Baker, R.S.J.d., Gobert, J., Wixon, M., Sao Pedro, M. (in press) Discovery with Models: A Case Study on Carelessness in Computer-based Science Inquiry. To appear in American Behavioral Scientist.
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Wednesday, April 3: Factor Analysis
+3pm-4:40pm
+
+ Readings
+Alpaydin, E. (2004) Introduction to Machine Learning. pp. 116-120.
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Monday, April 8 CLASS CANCELLED DUE TO LAK CONFERENCE
+Wednesday, April 10 CLASS CANCELLED DUE TO LAK CONFERENCE
+Monday, April 15: Clustering
+3pm-4:40pm
+
+ Readings
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Ch. 4.8, 6.6
+Amershi, S. Conati, C. (2009) Combining Unsupervised and Supervised Classification to Build User Models for Exploratory Learning Environments. Journal of Educational Data Mining, 1 (1), 18-71.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: Clustering
+Wednesday, April 17: Association Rule Mining
+3pm-4:40pm
+
+ Readings
+Witten, I.H., Frank, E. (2011) Data Mining: Practical Machine Learning Tools and Techniques. Ch. 4.5
+Merceron, A., Yacef, K. (2008) Interestingness Measures for Association Rules in Educational Data. Proceedings of the 1st International Conference on Educational Data Mining,57-66. [pdf]
+
+ Slides: [pptx]
+ Assignments Due: NONE
+Monday, April 22 CLASS CANCELLED DUE TO CREA CONFERENCE
+Wednesday, April 24: Sequential Pattern Mining
+3pm-4:40pm
+
+ Readings
+Srikant, R., Agrawal, R. (1996) Mining Sequential Patterns: Generalizations and Performance Improvements. Research Report: IBM Research Division. San Jose, CA: IBM. [pdf]
+Perera, D., Kay, J., Koprinska, I., Yacef, K., Zaiane, O. (2009) Clustering and Sequential Pattern Mining of Online Collaborative Learning Data. IEEE Transactions on Knowledge and Data Engineering, 21, 759-772. [pdf]
+Shanabrook, D.H., Cooper, D.G., Woolf, B.P., Arroyo, I. (2010)Identifying High-Level Student Behavior Using Sequence-based Motif Discovery. Proceedings of the 3rd International Conference on Educational Data Mining, 191-200.[pdf]
+
+ Slides: [pptx]
+ Assignments Due: Sequential Pattern Mining
+Monday, April 29: Learnograms
+3pm-4:40pm
+Guest Lecturer:Dr. Arnon Hershkovitz 
+ Readings
+NONE
+
+ Assignments Due: NONE
+Wednesday, May 1 CLASS CANCELLED DUE TO AERA CONFERENCE
+Monday, May 6: Advanced Visualization of Educational Data
+3pm-4:40pm
+
+ Readings
+Kay, J., Maisonneuve, N., Yacef, K., Reimann, P. (2006) The big five and visualisations of team work activity. Intelligent Tutoring Systems: Proceedings 8th International Conference, ITS 2006, 197-206.[pdf]
+Ritter, S., Harris, T., Nixon, T., Dickinson, D., Murray, R.C., Towle, B. (2009) Reducing the Knowledge Tracing Space. Proceedings of the 2nd International Conference on Educational Data Mining, 151-160.[pdf]
+Martinez, R., Kay, J., Yacef, K. (2011) Visualisations for longitudinal participation, contribution and progress of a collaborative task at the tabletop. International Conference on Computer Supported Collaborative Learning, CSCL 2011, 25-32.[pdf]
+
+ Assignments Due: Visualizaton
+Wednesday, May 8: Collaborative Filtering and Recommender Systems
+3pm-4:40pm
+
+ Readings
+Su, X., Khoshgoftaar, T.M. (2011) A Survey of Collaborative Filtering Techniques. Advances in Artificial Intelligence. Article ID 421425. [pdf]
+Garcia, E., Romero, C., Ventura, S., Castro, C. (2009). An architecture for making recommendations to courseware authors using association rule mining and collaborative filtering. User Modeling and User-Adapted Interaction: The Journal of Personalization Research, 19, 99-132. [pdf]
+
+ Assignments Due: NONE
+Monday, May 13: The World Is Changing
+3pm-4:40pm
+
+ Readings
+NONE
+
+ Assignments Due: Assignment 10*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/class-notes-feb3-2014.htmltext/htmlSciences of the Artificial
+I discovered this book while I was a graduate student at CMU. Not taught in any of my courses. Underlied a lot of what was going on at CMU. That's where EDM was first invented, to a large degree. Not a coincidence. Note that this is the same Simon as in the previous week's readings.
+Today's class discussion questions 
+ Simon, ch. 1, 2, 5, 6
+Core Questions
+When we study curricula or online learning environments, are we studying the natural world or the artificial? What are the implications for the long-term longevity and applicability of our findings?
+When we study learners, are we studying the natural world or the artificial? What are the implications for the long-term longevity and applicability of our findings?
+What about the effects of culture on how learners respond to learning situations? How fast can we expect the culture relevant to education to change? How would we even know that it had changed?
+What steps would be needed for educational interaction be reduced to an optimization problem, a set of mathematical function for which an optimal solution to be found? Is this possible? Desirable?
+"In the past much, if not most, of what we knew about design and about the artificial sciences was intellectually soft, intuitive, informal, and cookbooky." -- Is this true of educational design today? What about educational data mining? (Note my claim in Feature Engineering Studio that modern EDM is like ship navigation in 1000 BC). How can we surmount this problem? Is it worth having classes like Feature Engineering Studio that are "intellectually soft, intuitive, informal, and cookbooky."?
+A core use of EDM/LAK is prediction, and the way Simon thinks of prediction applies to more than just "prediction modeling". Simon argues that in some cases, homeostatic mechanisms (regulatory mechanisms to keep another variable constant) and feedback (in this case, feedback from the student/teachers to the system or designers) can be more effective (and that the three should be used in concert). Is he right? How do/should we use prediction, homeostatic mechanisms, and feedback processes in educational systems?
+Who is the true client of education and learning analytics? What are the implications of choosing different clients to focus on?
+Secondary Questions
+Given that precision estimates are available for most EDM models, why aren't error bars or probabilities used very often in reports to teachers or system-internal decision making? Should they be? How could they be used?
+How do we avoid local optima in educational design? (For example, steadily improving a type of online learning system until it is as good as it can be, while being decidedly inferior to a different type of online learning system's asymptote?
+Simon claims that (in the early 1990s) natural sciences have almost driven out the sciences of the artificial, that one does not see first-rate dissertations at first-rate universities concerned with problems of design. Is that true of Teachers College, and of schools of education in general? What is right and wrong about the current state of affairs in Schools of Education (with regards to this)?
+In what ways can cost-benefit analysis play into learning analytics design?
+In what ways can means-ends analysis play into learning analytics design?
+In learning analytics design, the cost of designing plays a relatively prominent role compared ot the cost of the design (e.g. implementing the design is not radically more expensive -- and may even be cheaper -- than collecting and analyzing the data and developing models). How does this impact choices about what to analyze in learning analytics?
+Simon says that the behavior of an artificial system should be adapted to the outer environment. How would a rationally designed educational system (writ large) behave? Do our current systems behave like that? How do the properties of the inner system show through?
+Simon discusses the value of computer simulations, however imperfect, of key phenomena. Why do we have so few simulations of educational phenomena? (One counter-example is SimStudent by Noboru Matsuda and Ken Koedinger... but it has not been adopted beyond that group. Another example is Anderson's ACT-R Theory, but its modern use is radically diminished.) Is it just fashion, or are there key limitations of symbol systems for modeling education?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/class-notes-feb5-2014.htmltext/htmlSciences of the Artificial, part two
+Herb Simon joke on decomposable systems/chunking.
+Today's class discussion questions 
+ Simon, ch. 7, 8
+Core Questions
+In Chapter 8 of the Sciences of the Artificial, Simon says "Roughly, by a complex system I mean one made up of a large number of parts that interact in a nonsimple way. In such systems, the whole is more than the sum of the parts, not in an ultimate, metaphysical sense, but in the important pragmatic sense that, given the properties of the parts and the laws of their interaction, it is not a trivial matter to infer the properties of the whole. In the face of complexity, an in-principle reductionist may be at the same time a pragmatic holist." -- How should we reconcile this perspective (first expressed in the 1981 edition of this book) with the one expressed 5-6 years later in the debate between Simon and Greeno?
+In Simon's way of looking at emergent behavior, a component's short-term behavior can be described independently from other components; interactions are slower to manifest and only really matter in the longer-term. Is this way of thinking about emergence useful? Valid? Does it allows us to capture key aspects of emergent behavior, or are things irreducible?
+Simon also says, "By adopting this weak interpretation of emergence, we can adhere (and I will adhere) to reductionism in principle even though it is not easy (often not even computationally feasible) to infer rigorously the properties of the whole from knowledge of the properties of the parts. In this pragmatic way, we can build nearly independent theories for each successive level of complexity, but at the same time, build bridging theories that show how each higher level can be accounted for in terms of the elements and relations of the next level below." -- does this way of addressing systems address the kind of concerns that Greeno, for instance, brought up? Does it enable us to understand educational systems as wholes?
+Secondary Questions
+Can the interactions between students in a school be understood as a nearly decomposable system?
+How would be represent learning as a nearly decomposable, hierarchic system? What are some positives to taking this tack?
+Simon does not believe that many systems are characterized by sudden shifts from stable behavior to catastrophe (or at least that theory along these lines isn't particularly generative). Economic systems clearly can be prone to sudden shifts, and Nassim Talib argues that our inability to predict and react quickly enough to this is due to a fundamental assumption of normality in our statistical models. Are there ways in which education/learning/learners may sometimes look like a stable system which suddenly goes off the rails? What about online learning systems?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/LA-lecture.htmltext/htmlLearning Analytics
+Core Questions
+What is learning analytics?
+What is the difference between educational data mining on the one hand, and learning analytics on the other hand? Is the perspective in Siemens and Baker more compelling, or the perspective in Ferguson? What are both perspectives missing, if anything? (Let's look at the claims one by one)
+In past classes, I have claimed that learning analytics is associated with holism and with McKeon's ontological perspective. Is this claim reflected in these articles?
+How do the Ferguson and Siemens articles differ in writing style from the three EDM articles? Is this difference reflective of anything deeper?
+What is the difference between learning analytics and academic analytics? Are they properly the same field or different fields?
+Let's discuss the Learning Analytics Model in Figure 2 of Siemens (2013).
+Secondary Questions
+Siemens discusses a tension between innovation (generating something new) and analytics (evaluating what exists in data). Is this tension real? Can we generate genuine innovation from data?
+Siemens (2013) argues that quality data is important, as is interoperability, whereas Baker has talked about the importance of being able to get something valuable from "roadkill" data. What are the relative merits of these two perspectives?
+Siemens refers to learning analytics as a field... but unlike the EDM articles and the Siemens article, Ferguson refers to learning analytics as an area of technology-enhanced learning with roots in a variety of fields. Aside from the obvious (look at the journal name), what are the roots and implications of conceptualizing learning analytics this way?
+The Ferguson article cites social network analysis as a key step towards socially driven pedagogies entering learning analytics/EDM. Why is this a particularly powerful method? What are its relative benefits in comparison to discourse analytics methods for studying collaboration?
+The Ferguson article explicitly discusses the political factors driving the growth of learning analytics. In the previous class on EDM we discussed political factors in the USA that may hamper the uptake of this field. What are the factors driving, slowing, and shaping LA/EDM in the USA and elsewhere? Do these factors differ by country?
+The list of tools mentioned by Siemens barely overlaps at all with the tools used in EDM, either the EDM-specific tools or the general tools (RapidMiner, Weka, and KEEL). What are the implications?
+How much of a problem are the internal limitations that Greller and Draschler discuss? How can this be most effectively surmounted?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/dwm.htmltext/htmlDiscovery with Modles
+What is Discovery with Models?
+What are the core benefits of Discovery with Models, both according to Hershkovitz, and in your opinion?
+Do you buy Hershkovitz et al.'s operationalization of carelessness? Are there other reasons why a student could make an error when he/she "knows the skill"? Could careless behavior occur on a correct answer?
+What are the dangers to conducting discovery with models if your model is imperfect?
+What are the safeguards for drawing conclusions, if your model is imperfect?
+Even if a model is itself an imperfect operationalization, is substantive validity -- as shown in Pardos -- sufficient?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/EDM-lecture.htmltext/htmlEducational Data Mining
+Core Questions
+What is educational data mining?
+What is the difference between educational data mining on the one hand, and traditional psychometrics and statistics on the other hand?
+Given that difference, what is the implication of the increase in use of psychometric frameworks in EDM, reported in all of the articles, and continuing to this day? (see for instance, the special issue on ECD & EDM in JEDM)
+In past classes, I have claimed that EDM is associated with reductionism and with McKeon's entitative perspective? Is this claim reflected in these three articles?
+Across Romero and Ventura, Baker and Yacef, and McLaren and Scheuer, there are three different perspectives on what the categories of methods are in educational data mining. What are the relative merits of these different perspectives?
+Baker and Yacef, in 2009, refer to four major areas of application of EDM models: Improving student models, discovering domain structure, determining what types of pedagogical support are most effective, and enhancing educational theories. What does this tell us about EDM? What currently important uses of EDM/learning analytics are missing?
+Scheuer and McLaren refer to six major areas of application of EDM models: Scientific inquiry and system evaluation, determining student model parameters, informing domain models, creating diagnostic models, creating reports and alerts, and recommending resources and activities? How does this perspective differ from Baker and Yacef? What are the pluses and minuses of these differences?
+Baker and Yacef argue that EDM opened research on gaming the system to "concrete, quantitative, and fine-grained analysis." Has EDM reached its potential to do this?
+One early theme in EDM is the development of research tools, a theme that has continued throughout EDM. However, most EDM research is still conducted using general-purpose tools. (BKT is one of the few exceptions to this). Why might this be?
+What are your thoughts about the cycle of applying data mining from Romero & Ventura?
+Secondary Questions
+Romero & Ventura refer to EDM as a field; Scheuer & McLaren refer to it as a discipline (and later as a field); Baker & Yacef refer to it as a research community. What is the difference between these three perspectives? Which one is most accurate? Which one is most useful?
+The definition of EDM in Baker & Yacef is focused on the specific properties of educational data, whereas the definition of EDM in Scheuer & McLaren is focused on the fact that there's a lot of data. Why might Scheuer & McLaren have made this shift? What are its implications?
+What is the implication of the use of discovery with models in EDM research? What is positive about this trend? Are there any negatives?
+Romero and Ventura argue that one key differences between data mining for e-commerce and e-learning is that the purpose in e-commerce is to guide clients in purchasing or increasing profit while the purpose in e-learning is to guide students in learning. With the recent use of EDM by for-profit corporations (such as the Apollo Group) in using EDM to predict program dropout, is this distinction as clear as it was?
+The PSLC DataShop played a major role in the field around 2008 and 2009. That role is diminishing (in terms of proportion if not absolute numbers); why? Is it simply due to more proprietary data? the emergence of new types of data not explicitly considered during the design of DataShop? the rapid growth of the field? or other factors?
+Baker and Yacef argue that the use of public data sets will support external validation of analyses, and help researchers build on each others' efforts. As researchers increasingly work with non-public data, are these benefits lost, or are they being achieved in other ways?
+Scheuer and McLaren treat parameter estimation as a separate area of EDM. Do you agree?
+Scheuer and McLaren call for replication studies to test for model reliability and generalization. Do you agree? Are there any other ways to test model reliability and generalization?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/BD-lecture.htmltext/htmlBig Data Perspective
+Core Questions
+What is the big data perspective on educational data?
+Is it sufficient just to have lots of data? How much does data quality matter?
+Is it the case that the language text corpus that Halevy et al discuss is really characterized just by size? What about the presence of high-quality translations in a large part of the corpus (the EU transcripts, in specific?)
+MOOC data is well known to be large in number of learners... but often not very well reified -- student thinking is not very visible in watching videos and completing quizzes where only final answers are entered. How much does this matter?
+Halevy et al recommend using concepts already present in the data, but a lot of educational data mining relies upon discovering new concepts (e.g. gaming the system) and/or connecting concepts in the world to log data (e.g. affect detection). What are the relative merits of each approach?
+The approach cited in Halevy et al. leverages domain knowledge and scientific knowledge in linguistics. Does it contribute back to scientific knowledge in linguistics?
+Despite the clear use of domain knowledge and scientific knowledge in linguistics, one major figure involved in this perspective has publicly said that existing learning sciences research is not useful for the design, analysis, and improvement of MOOCs. Why might this be? What are your thoughts about this?
+Secondary Questions
+MOOCs are tiny in scale compared to the linguistic data available from the world wide web; so are intelligent tutors, and every other source of educational data. Even the sum total of all the data in Blackboard (almost totally unreified) is several orders of magnitude smaller. How can we leverage the unreasonable effectiveness of not-actually-that-big-data?
+Halevy et al argue that imperfect connections and labels can be compensated for by sheer scale. Is there some way to know where on the tradeoff we are? How bad can data be at a certain size?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/statEDM.htmltext/htmlStatistical Perspectives on Data Mining
+Note that though Hand talks about data mining in general, for this class we should think about EDM
+Core Questions
+How is the view of validity in data mining, as represented by Hand, similar to and different from the viewpoints on validity previously studied in this class? (Note that Hand is snarkier about data mining than many statisticians, but more positive about its potential than many others)
+Is statistical significance still meaningful in very large data sets? If so, when? If not, what should substitute for it?
+Hand et al suggests that the problem of statistical significance not being useful could be addressed by simply sampling from the data set to reduce its size. Do you like this solution?
+Hand claims that selection bias is a particularly big problem for data used in data mining. Is this true? And if so, what are the consequences and how could they be addressed or mitigated?
+How can over-fitting and the finding of spurious patterns be reduced, in Hand's (1998) view? Which of his preferred approaches do you find most useful? Are there other superior alternatives?
+Hand et al claims that data mining can find common patterns, but their value and meaningfulness can only be determined by a domain expert. Do you agree?
+Secondary Questions
+Hand argues that clean data cannot be expected for very large data sets, whereas Romero argues for the value of cleaning data prior to data mining. Under what circumstances is data cleaning important?
+Hand et al claim that any pattern which cannot be explained should be treated as suspect. What are the benefits and drawbacks to this perspective?
+Hand (1998) states that "Statistics as a discipline has a poor record for timely recognition of important ideas... statisticians have later made very significant advances in all of these fields, but the fact that the perceived natural home of these areas lies not in statistics but in other areas is demonstrated by the key journals for these areas -- they are not statistical journals. Data mining seems to be following this pattern." -- Is Hand's prophecy accurate for EDM/LAK? And if so, why might this be?
+Hand claims that data mining is "almost by definition" concerned with atheoretical, purely empirical models, rather than models based on theory. Does this match the perspectives previously discussed in this class?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/reporting-intervention.htmltext/htmlReporting-Based Intervention
+Core Questions
+When should we use reporting rather than automated intervention?
+What are the relative merits of simply providing information, versus providing practice recommendations?
+What guidelines should we follow for providing information?
+What guidelines should we follow for providing practice recommendations?
+What should we report to {teachers, parents, guidance counselors, principals, IEP specialists, RAs, etc.}?
+How should reports for parents and teachers be different (in terms of design)?
+Secondary Questions
+How do we guarantee implementation fidelity when using reporting?
+How can we create reporting that parents and teachers want to use?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/automated-intervention.htmltext/htmlAutomated Intervention
+Core Questions
+When should we use automated intervention rather than a teacher-driven intervention?
+What procedures can we use to tell when an intervention should be assigned?
+When is stealth intervention superior to an obtrusive intervention? What is the difference?
+When we have multiple alternate interventions, how should we select one?
+What parameters should we consider when evaluating an automated intervention?
+Secondary Questions
+How can we avoid "intervention rot", where an intervention becomes less effective over time?
+How can we address the fact that student models become less predictive once they are used in intervention?
+How can we effectively design when humans respond differently to computers than other humans?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/feature-engineering.htmltext/htmlKnowledge Engineering
+What did you think about the YouTube video, the Paquette paper, the discussion in the book chapter?
+What did you think about those sleeves?
+How about the hat?
+What is knowledge engineering?
+What do you need to do to do knowledge engineering right?
+What are the differences between knowledge engineering and data mining?
+What are the advantages of knowledge engineering over data mining?
+What are the advantages of data mining over knowledge engineering?
+How does Paquette et al. leverage the advantages of knowledge engineering?
+What could Paquette et al. have done to do even better?
+What are the costs of Paquette et al's approach?
+Is Baker's criticism of knowledge engineering at its worst valid?*********************************************http://www.columbia.edu/~rsb2162/LA-PT-2014/ECD-lecture.htmltext/htmlEvidence-Centered Design
+Core Questions
+What is evidence-centered design?
+What goals does ECD share in common with educational data mining?
+What are the four components of Mislevy et al.'s Conceptual Assessment Framework (CAF)?
+What is the difference between how Mislevy and colleagues use the term "student model" and how it is used in the intelligent tutoring system literature?
+Mislevy and colleagues make the claim "One cannot simply construct âgood tasksâ in isolation, however, and hope that someone down the line will figure out âhow to score them.â One must design a complex assessment from the very start around the inferences one wants to make, the observations one needs to ground them, the situations that will evoke those observations, and the chain of reasoning that connects them" -- How does this claim relate to the discussion of quality data versus roadkill data from previous classes?
+How might ECD and EDM be used together? Would this be a productive or a nonproductive use of these two types of methods?
+In what ways is the use of ECD that Shute et al. envisions in immersive games different from what Mislevy et al. envisioned and recommended?
+Secondary Questions
+Shute et al. claim that there are many constructs that can only be studied in complex immersive games. What might be some examples of this?
+Do you think the type of persistence that can be observed in immersive games such as Oblivion is a good predictor/correlate of persistence in education and work?
+How might you measure player creativity in an unmodified immersive game? Give concrete examples (beyond those in Shute et al.)*********************************************

@@ -1,0 +1,118 @@
+'''
+Created on 02/02/2015
+
+@author: jon
+'''
+from nltk.tokenize          import wordpunct_tokenize
+from nltk.corpus            import stopwords
+from nltk.stem.lancaster    import LancasterStemmer
+from nltk.text              import TextCollection
+
+import string
+import re
+import unicodedata
+import sys
+import subprocess
+import time
+
+def run(cmd):
+    call = ["/bin/bash", "-c", cmd]
+    ret = subprocess.call(call, stdout=None, stderr=None)
+    if ret > 0:
+        print "Warning - result was %d" % ret
+
+class TextIndexer:
+    
+    __textCollection = None
+    
+    def __init__(self, documents):
+        self.__textCollection = TextCollection(documents)
+        
+    def idf(self, term):
+        return self.__textCollection.idf(term)
+    
+    def tf(self, term, text):
+        return self.__textCollection.tf(term, text)
+    
+    
+class TextAnalyzer():
+    
+    def remove_accents(self, data):
+        return ''.join(x for x in unicodedata.normalize('NFKD', data) if x in string.ascii_letters).lower()
+
+    def normal_unicode(self, udata):
+        return unicodedata.normalize('NFKD', unicode(udata)).encode('ascii', 'ignore')
+
+    def lower_case(self, document):
+        return document.lower()
+    
+    def tokenizer(self, document):
+        #tokens = nltk.tokenize()
+        return wordpunct_tokenize(document)
+        
+    def remove_stop_words(self, document):
+        return [w for w in document if not w in stopwords.words('english')]
+    
+    def remove_special_char_term(self, document):
+        remove = ["-",".","?","+","!","[","]"]
+        for x in remove:
+            document = document.replace(x,"")
+        return document 
+            
+    def remove_special_char(self, document):
+        #remove = ["-",".","?","+","!","\",'"',":",";","(",")","\","0","-","9",/]
+        punctuation = re.compile(r'[-.?++!,\\":;()\0-9/]')
+        document =  [punctuation.sub("", w) for w in document]
+        return [w for w in document if w not in string.punctuation or w not in string.digits]
+    
+    def remove_short_words(self, document):
+        return  [w for w in document if len(w)>1]
+    
+    def stemming(self, document):
+        st = LancasterStemmer()
+        return  [st.stem(w) for w in document]
+    
+    def analyzer_document(self, document):
+        #document = self.remove_accents(document)
+        document = self.normal_unicode(document)
+        document = self.remove_special_char_term(document)
+        document = self.lower_case(document)
+        document = self.tokenizer(document)
+        document = self.remove_special_char(document)
+        document = self.remove_short_words(document)
+        document = self.remove_stop_words(document)
+        document = self.stemming(document)
+        document = self.remove_special_char(document)
+        #document = self.remove_special_char_term(document)
+        return document
+    
+    def read_file(self, filename):
+        with open (filename, "r") as myfile:
+            return myfile.read().replace('\n', '')
+
+    
+if __name__ == '__main__':
+    analyzer = TextAnalyzer()
+    indexer  = TextIndexer('')
+
+    argumentoentrada = sys.argv[1]
+    argumentosaida = sys.argv[2]
+
+    run("java -jar jar.jar argumentoentrada argumentosaida")
+    time.sleep(60)
+    
+    #subprocess.call(["./jar.jar", argumentoentrada, argumentosaida])
+    ryan_file = argumentosaida
+    #ryan_file = 'C:\Users\Wmax\workspace\profilebuilder\nome_do_arquivo.txt'
+    #ryan_file = sys.argv[1]
+    ryan_data = analyzer.read_file(filename = ryan_file)
+    ryan_data = ryan_data.decode('iso-8859-1').encode('ascii', 'replace')
+    #ryan_data = unicode(ryan_data, "UTF-8")
+    #print ryan_data[13524]
+    ryan_info = analyzer.analyzer_document(document = ryan_data)
+    
+    terms = set(ryan_info)
+    ryan_profile = {t:indexer.tf(t, ryan_info) for t in terms}
+    
+    for term in ryan_profile:
+        print term, ryan_profile[term] 
